@@ -1,0 +1,758 @@
+# Cangjie 库索引
+
+本目录收录来自仓颉中心仓 (cjpm) 的 Cangjie 库索引，按包组织：
+
+- 大版本目录：`cangjie-v1`
+- 包路径：`<group>/<name>/<name>.md`
+- 收录来源：`pkg.cangjie-lang.cn` 中心仓 API
+- 当前共收录 693 个 Cangjie 包。
+
+## 数据源
+
+- 中心仓：https://pkg.cangjie-lang.cn/
+- 文档：https://cangjie-lang.cn/docs
+- cjpm 包管理器：仓颉官方
+
+## 收录清单
+
+### CjKu (12 个)
+
+- `CjKu::dissect` 0.1.0  —  IgniteKit layered protocol dissection framework + DNS dissector (RFC 1035/2181/6
+- `CjKu::igdissect` 0.1.0  —  IgniteKit layered protocol dissection framework + DNS dissector (RFC 1035/2181/6
+- `CjKu::igmultipart` 0.1.0  —  Streaming multipart/form-data parsing and writing for Cangjie services and clien
+- `CjKu::igntp` 0.1.0  —  SNTP v4 unicast client and timestamp calculations for Cangjie applications.
+- `CjKu::igproxyprotocol` 0.1.0  —  PROXY protocol v1/v2 parsing, emission and trusted-proxy relay support for Cangj
+- `CjKu::mapsdk` 0.2.0  —  mapsdk — geodesy, slippy tiles, geohash, GeoJSON; pure Cangjie
+- `CjKu::multipart` 0.1.0  —  Streaming multipart/form-data parsing and writing for Cangjie services and clien
+- `CjKu::ntp` 0.1.0  —  SNTP v4 unicast client and timestamp calculations for Cangjie applications.
+- `CjKu::proxyprotocol` 0.1.0  —  PROXY protocol v1/v2 parsing, emission and trusted-proxy relay support for Cangj
+- `CjKu::route` 0.2.0  —  route — Dijkstra and A* over directed weighted graphs; pure Cangjie
+- `CjKu::seamath` 0.2.0  —  SeaMath — number theory and numeric utilities for Cangjie; pure std
+- `CjKu::sms4` 0.2.0  —  sms4 — SMS gateway abstraction: signing, rate limit, retry queue; pure Cangjie
+
+### MakerStudio (12 个)
+
+- `MakerStudio::behavior4cj` 1.0.1  —  Behavior3 client library for Cangjie (Behavior Trees for Cangjie)
+- `MakerStudio::derivemore4cj` 1.0.1  —  仓颉版本的 derive_more 库：编译期派生宏与配套接口
+- `MakerStudio::fecha4cj` 1.1.0  —  Lightweight date formatting and parsing library for Cangjie. Ported from JavaScr
+- `MakerStudio::gcoord4cj` 0.1.0  —  Geographic coordinate conversion library for Cangjie programming language
+- `MakerStudio::globset4cj` 1.0.1  —  跨平台的glob模式匹配库，仓颉语言版本
+- `MakerStudio::jsoup4cj` 1.1.0  —  jsoup HTML Parser migrated to Cangjie programming language
+- `MakerStudio::seedrandom4cj` 0.1.0  —  可播种的伪随机数生成器库（seedrandom 移植到仓颉语言）
+- `MakerStudio::shlex` 1.0.0  —  Parse strings like, and escape strings for, POSIX shells. Similar to Python's sh
+- `MakerStudio::shlex4cj` 1.0.1  —  Parse strings like, and escape strings for, POSIX shells. Similar to Python's sh
+- `MakerStudio::sortedcontainers4cj` 1.0.1  —  有序容器库 - 移植自Python sortedcontainers
+- `MakerStudio::titlebar` 0.1.0  —  TitleBar component for Cangjie programming language
+- `MakerStudio::viewswitchercj` 0.1.0  —  ViewSwitcher Component for HarmonyOS - Slide view switcher with auto-play suppor
+
+### Tiny (21 个)
+
+- `Tiny::algorithms` 0.1.0  —  Algorithm toolkit: sorting/DP/string-matching/geometry/math (top-level functions
+- `Tiny::antlr4` 0.1.1  —  ANTLR 4 Runtime for Cangjie
+- `Tiny::binary` 0.1.0  —  Tiny::binary — Binary serialization format adapter for Tiny::serde (v1 little-en
+- `Tiny::cjhead` 0.1.7  —  Cangjie header generator
+- `Tiny::cjo` 0.1.3  —  Cangjie cjo reader (shared by cjimporter/cjhead)
+- `Tiny::cjss` 1.0.4  —  Json Schema Serializer Macro
+- `Tiny::cjuml` 0.1.6  —  Cangjie UML generator (plantuml/mermaid/star)
+- `Tiny::ddm` 1.0.2  —  Development Debug Macros
+- `Tiny::flatbuffers` 0.1.1  —  Flatbuffers reader
+- `Tiny::gitcode` 1.0.0  —  gitcode command line tool
+- `Tiny::graph` 0.2.0  —  Graph structures and algorithms: shortest path/MST/topological sort/SCC/flow/bip
+- `Tiny::json` 0.1.2  —  Tiny::json — JSON serialization/deserialization library with built-in parser and
+- `Tiny::profiler` 0.1.0  —  Profiler Utils
+- `Tiny::serde` 0.1.1  —  Tiny::serde — generic serialization framework (interface family + Value + entry)
+- `Tiny::serdem` 0.1.0  —  Tiny::serdem — derive-style serialization macros @De/@Ser/@Serde for Tiny::serde
+- `Tiny::task` 0.1.3  —  Tiny::task — 通用任务执行框架（协议层 + 实现层 + 驱动层）
+- `Tiny::toml` 0.1.0  —  Tiny::toml — TOML serialization format adapter for Tiny::serde (v1: top-level ta
+- `Tiny::xcollection` 0.1.1  —  Standard collection extensions: trees/heaps/trie/indexed/probabilistic/union-fin
+- `Tiny::xconcurrent` 0.1.0  —  Standard sync/concurrent-collection extensions: spinlock/mutex stack/concurrent 
+- `Tiny::xcore` 0.2.0  —  Tiny::xcore — pure-Cangjie core language extensions
+- `Tiny::yaml` 0.1.0  —  Tiny::yaml — YAML serialization format adapter for Tiny::serde (v1: block mappin
+
+### cangjie_tpc (16 个)
+
+- `cangjie_tpc::ahoCorasick4cj` 1.0.5  —  字符串匹配算法库
+- `cangjie_tpc::cbor4cj` 1.0.2  —  Concise Binary Object Representation (CBOR)
+- `cangjie_tpc::charset4cj` 1.0.5  —  仓颉语言编解码库
+- `cangjie_tpc::commonmark4cj` 1.0.3  —  commonmark
+- `cangjie_tpc::diffUtils4cj` 1.0.2  —  比对两个字符串的差异，并按行将差异展示出来
+- `cangjie_tpc::eventbus4cj` 1.0.3  —  lite-eventbus
+- `cangjie_tpc::is_png_cj` 1.0.0  —  判断文件或字节流是否为png图片
+- `cangjie_tpc::is_webp_cj` 1.0.0  —  判断文件或字节流是否为webp图片
+- `cangjie_tpc::matrix4cj` 1.0.5  —  线性代数库，用于构造和操作密集矩阵
+- `cangjie_tpc::mbassador4cj` 1.0.0  —  消息总线
+- `cangjie_tpc::mime` 1.0.3  —  mime
+- `cangjie_tpc::pinyin4cj` 1.0.5  —  将汉字转换成拼音，输出的拼音格式可以自定义设置
+- `cangjie_tpc::prism4cj` 1.0.5  —  提供任意语法的标记化策略
+- `cangjie_tpc::rxcj` 1.1.1  —  响应式编程
+- `cangjie_tpc::xsequence4cj` 1.0.2  —  分布式序列号生成组件
+- `cangjie_tpc::zlib4cj` 1.2.1  —  支持zlib,DEFLATE,gzip格式压缩和解压缩
+
+### cjf (33 个)
+
+- `cjf::cjf` 0.0.3  —  CangjieFrame aggregate facade package; re-exports all cjf_* submodules and expos
+- `cjf::cjf_auth` 0.0.3  —  CangjieFrame 认证与加密模块: JWT、HMAC、SHA256/512、Base64、安全随机数
+- `cjf::cjf_cache` 0.0.3  —  CangjieFrame 缓存模块: 泛型内存缓存，支持 TTL、LRU、后台清理
+- `cjf::cjf_cfg` 0.0.3  —  CangjieFrame 配置管理模块，支持多源配置、类型化读取和变更订阅
+- `cjf::cjf_cli` 0.0.3  —  CangjieFrame CLI — project scaffolding and devops tool
+- `cjf::cjf_contrib_alert` 0.0.3  —  cjf contrib — configurable alert rule engine with metric threshold evaluation
+- `cjf::cjf_contrib_cache_redis` 0.0.3  —  cjf contrib — Redis cache and session storage driver
+- `cjf::cjf_contrib_cfg_nacos` 0.0.3  —  cjf config adapter for Nacos configuration center
+- `cjf::cjf_contrib_db_mongo` 0.0.3  —  CJF adapter for the pure Cangjie MongoDB driver mongo-driver
+- `cjf::cjf_contrib_db_mysql` 0.0.3  —  cjf contrib — MySQL/MariaDB adapter over mysql_driver
+- `cjf::cjf_contrib_db_postgres` 0.0.3  —  cjf contrib — PostgreSQL database driver implementing DbConn/TxConn
+- `cjf::cjf_contrib_db_sqlite` 0.0.3  —  cjf contrib — SQLite CJF adapter over sqlite-driver
+- `cjf::cjf_contrib_db_sqlserver` 0.0.3  —  CJF adapter for the pure Cangjie SQL Server driver
+- `cjf::cjf_contrib_metrics_prometheus` 0.0.3  —  cjf contrib — Prometheus /metrics endpoint, 基于 prometheus4cj 仓颉包封装
+- `cjf::cjf_contrib_migrate` 0.0.3  —  cjf database adapter for the standalone migrate engine
+- `cjf::cjf_contrib_mq_rocketmq` 0.0.3  —  cjf contrib — RocketMQ message queue driver
+- `cjf::cjf_contrib_oidc` 0.0.3  —  cjf web adapter for the standalone OIDC verifier
+- `cjf::cjf_contrib_otlp` 0.0.3  —  cjf contrib — OTLP/HTTP trace, metric and log exporters wired into cjf_otel
+- `cjf::cjf_contrib_reliability` 0.0.3  —  cjf database adapter for the standalone reliability engine
+- `cjf::cjf_contrib_rpc_grpc4cj` 0.0.3  —  cjf contrib — grpc4cj 适配器：桥接 cjf 治理层到 grpc4cj 传输
+- `cjf::cjf_contrib_search_elasticsearch` 0.0.3  —  cjf contrib — Elasticsearch integration with OTel tracing, metrics, and structur
+- `cjf::cjf_contrib_svc_nacos` 0.0.3  —  cjf contrib — Nacos service registry and discovery implementing ServiceRegistry/
+- `cjf::cjf_core` 0.0.3  —  CangjieFrame core types: Exception, Context, DataNode, encoding, schema, route, 
+- `cjf::cjf_cron` 0.0.3  —  CangjieFrame 定时任务模块: Cron 表达式解析、调度器、任务注册
+- `cjf::cjf_db` 0.0.3  —  CangjieFrame data access layer: DAO, sharding, GraphQL
+- `cjf::cjf_guard` 0.0.3  —  CangjieFrame 服务守卫: 熔断器、限流、自适应过载保护、治理指标与 Span 辅助
+- `cjf::cjf_lint` 0.0.3  —  CangjieFrame 架构级静态检查引擎: 规则集、抑制注解、cjlint 结果合并
+- `cjf::cjf_log` 0.0.3  —  CangjieFrame structured logging
+- `cjf::cjf_macros` 0.0.3  —  CangjieFrame 属性宏集合：@Derive / @Validate / @Route / @Provide 等
+- `cjf::cjf_otel` 0.0.3  —  CangjieFrame OpenTelemetry integration (powered by opentelemetry4cj + prometheus
+- `cjf::cjf_rpc` 0.0.3  —  CangjieFrame RPC 模块: 服务发现、负载均衡、拦截器链、Channel 管理
+- `cjf::cjf_validate` 0.0.3  —  CangjieFrame 参数校验运行时: @Validate 宏展开后调用的 cjfValidate* 规则函数
+- `cjf::cjf_web` 0.0.3  —  CangjieFrame HTTP server, routing, middleware, session, OpenAPI
+
+### default (504 个)
+
+- `CardGame` 1.0.0  —  回合制骰子卡牌对战游戏——支持单人vs AI、双人热座、局域网联机、远程联机
+- `SQL4cj` 1.0.3  —  一个仓颉语言的简单SQL解析器，还在开发当中。
+- `aad4cj` 1.1.0  —  AAC音频码流解析与处理组件库，基于仓颉语言实现，提供ADTS帧解析和位流处理
+- `acp` 0.2.5  —  ACP (Agent Client Protocol) 框架，包含 Agent 侧与 Client 侧
+- `acp_probe_test` 0.1.0  —  acp-cj 演示：拉起 opencode 走完整 ACP 链路的演示客户端
+- `aho24cj` 0.1.0  —  A Cangjie adaptation project for Aho-Corasick multi-pattern string matching.
+- `aho4cj` 0.1.0  —  Aho-Corasick 多模式字符串搜索库的纯仓颉实现
+- `aion` 1.0.3  —  aion-scheduler （AI）
+- `amqp` 0.2.0  —  AMQP 0-9-1 client library for Cangjie, supporting RabbitMQ message queue operati
+- `ansies` 1.3.113  —  美化终端输出文本的ANSI Escape Sequences生成库。
+- `askama4cj` 0.1.0  —  A type-safe Jinja-style template engine for the Cangjie language
+- `askama_macros` 0.1.0  —  Askama4cj compile-time template macro (single-macro engine)
+- `async_control` 1.0.0  —  A utility library providing debounce and throttle functions for rate-limiting as
+- `badgercj` 1.6.20  —  一个可嵌入、持久化且速度很快的基于LSM-Tree的键值 (KV) 数据库
+- `bandaid` 1.1.0  —  nothing here
+- `bbolt4cj` 0.1.0  —  仓颉版 bbolt 嵌入式 KV 数据库
+- `bigcache4cj` 1.0.0  —  Fast concurrent evicting in-memory cache for Cangjie.
+- `bigdecimal4cj` 0.1.1  —  Arbitrary-precision decimal (BigDecimal) for the Cangjie language: exact arithme
+- `bincode4cj` 0.1.1  —  Binary serialization / deserialization library (bincode port to Cangjie)
+- `bincode4cj_derive` 0.1.1  —  Derive macros for bincode4cj: @deriveEncode / @deriveDecode
+- `bitarray` 0.1.0  —  a bit array library
+- `bitmanip4cj` 0.1.1  —  Bit manipulation toolkit for Cangjie: byte swap, parity, Gray code, power-of-two
+- `bitset4cj` 0.2.0  —  A growable bit set (bitset) for the Cangjie language: set/clear/flip/test, set o
+- `bitstream4cj` 0.1.2  —  Bit-level stream reader/writer for Cangjie: arbitrary-width bit fields, MSB/LSB-
+- `bitvec4cj` 0.2.1  —  Bit-addressed memory containers for Cangjie, modeled after ferrilab/bitvec
+- `blake34cj` 0.1.0  —  Portable pure-Cangjie implementation of the BLAKE3 hash function
+- `bloom4cj` 1.1.0  —  nothing here
+- `bot4cj` 0.3.0  —  基于仓颉和 Linux I2C 接口的机器人硬件控制器（用 DSL 描述机器人结构与动作）
+- `brotli4cj` 1.2.0  —  Cangjie bindings for the vendored Brotli C library.
+- `bstorm` 1.4.10  —  嵌入式 JSON 文档数据库 —— 纯仓颉实现，零 FFI 依赖，为仓颉语言提供简单高效的对象存储。
+- `byteorder4cj` 2.0.0  —  Byte order encoding/decoding library for Cangjie, supports big-endian and little
+- `bytes4cj` 0.1.0  —  高效字节缓冲区库：提供不可变字节序列 Bytes 与可增长缓冲区 BytesMut，参考 tokio-rs/bytes 设计，适配仓颉语言。支持切片/拆分零拷贝
+- `calendar` 0.2.5  —  nothing here
+- `cangjie_repository_artifact` 1.0.2  —  nothing here
+- `cangjie_toml` 0.2.3  —  nothing here
+- `captcha4cj` 0.1.0  —  Cangjie 验证码生成库：math / string / digit / audio / chinese / click 多种类型
+- `carbon` 1.0.0  —  一个简单、语义化且对开发人员友好的日期时间库
+- `casbin4cj` 0.0.1  —  Casbin 风格的仓颉授权引擎核心库：PERM 模型、ACL/RBAC、受限 matcher 与策略管理
+- `casbin4cj_db` 0.0.1  —  驱动无关的策略行存契约与 RowStoreAdapter
+- `casbin4cj_db_mysql` 0.0.1  —  casbin4cj 的 MySQL 策略行存
+- `casbin4cj_db_postgres` 0.0.1  —  casbin4cj 的 PostgreSQL 策略行存与通知
+- `casbin4cj_db_sql` 0.0.1  —  方言中立的 SQL 策略表与修订表
+- `casbin4cj_db_sqlite` 0.0.1  —  casbin4cj 的 SQLite 策略行存
+- `casbin4cj_http` 0.0.1  —  与具体 Web 框架无关的 casbin4cj HTTP 鉴权中间件
+- `casbin4cj_watch` 0.0.1  —  casbin4cj 进程内总线、修订号轮询与文件通知
+- `casbin4cj_watch_redis` 0.0.1  —  casbin4cj 的 Redis Pub/Sub Watcher
+- `cat_probe` 1.0.0  —  nothing here
+- `cbor4cj` 1.0.1  —  Concise Binary Object Representation (CBOR)
+- `cfgif4cj` 1.0.0  —  Cangjie adaptation of Rust cfg-if 1.0.4 (hand-expanded conditional-compilation p
+- `checkdigits4cj` 0.1.1  —  Check-digit and identifier validation for Cangjie: Luhn, Damm, EAN-13, ISBN-10/1
+- `checksum4cj` 0.1.1  —  Fast non-cryptographic checksums and hashes for Cangjie: CRC32, CRC32C, Adler32,
+- `chemail4cj` 0.1.1  —  chemail4cj —— 仓颉版 fast_chemail，根据 HTML 规范验证电子邮件地址
+- `chrono4cj` 0.1.6  —  Date and time library for Cangjie, migrated from Rust chrono
+- `chrono_tz` 0.0.1  —  test package to verify cangjie central repository publishing flow
+- `cj2sql` 0.2.2  —  将仓颉代码转换成 SQL
+- `cjDemoTest` 1.0.1  —  A test project for Cangjie central repository showcasing nested functions
+- `cj_debounce_throttle` 0.1.0  —  高频节流工具 throttle / debounce，含 Repeater 与 @Debounce/@Throttle 宏
+- `cj_freemarker` 0.1.1  —  用仓颉语言实现[FreeMarker模板引擎]
+- `cj_throttle_debounce` 1.0.0  —  Throttle and debounce macros and runtime for Cangjie 1.1.0
+- `cjdoc` 0.18.1  —  This is a tool used to analyze Cangjie codes in order to generate documentation
+- `cjdotenv` 0.4.1  —  A Cangjie library to load environment variables from `.env`.
+- `cjform` 1.6.0  —  Cangjie Windows Native UI Library — Win32/GDI+ based widget toolkit with 40+ con
+- `cjgeohash` 1.1.0  —  nothing here
+- `cjic_api` 0.1.1  —  Dependency injection API annotations for Cangjie
+- `cjic_core` 0.1.1  —  Dependency injection core container for Cangjie
+- `cjir` 2.1.1  —  __asm__ but it's even worse than the real thing.
+- `cjjson` 1.0.0  —  nothing here
+- `cjlog` 0.1.1  —  a logging framework that's designed for configurable and pluggable logging.
+- `cjmetrics` 0.1.0  —  TIOBE TQI-based code metrics and quality-gate tool for the Cangjie programming l
+- `cjmustache` 1.1.0  —  nothing here
+- `cjoy` 1.0.2  —  a fast, lightweight and joy web framework
+- `cjpm_task` 1.1.0  —  Cangjie declarative task runner
+- `cjpminfo` 1.2.0  —  使用宏获取cjpm.toml信息
+- `cjprobbench` 0.1.0  —  Packaging probe package
+- `cjprobebase` 0.1.0  —  Minimal complex number utilities for Cangjie
+- `cjprobedocs` 0.1.0  —  Packaging probe: documentation texts
+- `cjprobesrc` 0.1.0  —  Linear algebra structures and decompositions probe
+- `cjsdk` 0.1.0  —  仓颉 SDK 版本管理器（对标 nvm，纯仓颉标准库实现）
+- `cjterm_git` 0.1.0  —  Parse Git color configuration syntax for Cangjie
+- `cjterm_hyperlink` 0.1.0  —  ANSI terminal hyperlinks (OSC 8) for Cangjie
+- `cjterm_lossy` 0.1.0  —  Lossy color conversions for Cangjie
+- `cjterm_ls` 0.1.0  —  Parse LS_COLORS syntax for Cangjie
+- `cjterm_parse` 0.1.0  —  ANSI escape sequence parser for Cangjie
+- `cjterm_progress` 0.1.0  —  Terminal progress indicator (OSC 9;4) for Cangjie
+- `cjterm_query` 0.1.0  —  Query terminal capabilities for Cangjie
+- `cjterm_stream` 0.1.0  —  Auto-adapting terminal output streams for Cangjie
+- `cjterm_style` 0.1.0  —  Terminal ANSI style definitions for Cangjie
+- `cjterm_svg` 0.1.0  —  Render ANSI terminal output to SVG/HTML for Cangjie
+- `cjtqdm` 0.2.0  —  A fast, extensible progress bar library for Cangjie, inspired by Python tqdm
+- `cjtrans` 0.4.1  —  nothing here
+- `cjv` 0.1.8  —  Install the cjv binary from GitHub Releases through cjpm.
+- `cjvs` 0.4.1  —  仓颉编译器版本切换工具
+- `cjxe` 0.3.0  —  A Fast Command Line Argument Parser for Cangjie
+- `cjxt` 1.0.3  —  Cangjie server-driven UI framework for enterprise applications
+- `cli` 0.4.1  —  nothing here
+- `click4cj` 0.4.0  —  click4cj —— 仓颉版 Click，可组合的命令行界面创建工具包
+- `cnnum4cj` 0.1.1  —  Chinese numerals for Cangjie: Int64 -> Chinese words (simplified/financial upper
+- `codegraph` 0.1.0  —  CodeGraph-CJ - 仓颉语言代码分析工具
+- `codex_skill` 1.1.4  —  nothing here
+- `collections4cj` 0.6.1  —  Complementary containers for the Cangjie standard library: PriorityQueue, Trie, 
+- `color` 1.0.4  —  仓颉颜色处理库：多色彩空间转换、CSS 解析、命名色与插值
+- `color4cj` 1.0.4  —  仓颉颜色处理库：多色彩空间转换、CSS 解析、命名色与插值
+- `colorprint` 1.0.0  —  仓颉语言 (Cangjie) 终端彩色输出增强库，通过 ANSI 转义序列实现控制台彩色打印。
+- `commandline` 0.0.3  —  Modern declarative CLI library for Cangjie language with unified Command interfa
+- `commons4cj` 0.2.0  —  仓颉生态零依赖公共基础库：并发 / 编码 / 网络 / 可观测性 / 安全 / IO / 域特定原语
+- `commons4cj_macros` 0.2.0  —  仓颉 V8 依赖注入宏：@Inject / @Provides / @Named 及生命周期标记
+- `commons4cj_reflect` 0.2.0  —  commons4cj runtime reflection extensions
+- `conc` 0.1.0  —  仓颉结构化并发库：WaitGroup / Pool / Stream / Iter，对标 Go sourcegraph/conc
+- `concurrentlinkeddeque4cj` 0.1.0  —  基于仓颉语言实现的无锁并发双端队列(ConcurrentLinkedDeque),移植自 OpenJDK java.util.concurrent.Concur
+- `constrandom` 1.0.0  —  A compile-time random number generator for integer types.
+- `consul4cj` 0.0.2  —  Native Consul HTTP API client for Cangjie
+- `copier4cj` 0.0.3  —  A copier library for Cangjie
+- `crc32fast` 1.5.0  —  Fast CRC32 (IEEE) checksum computation - Cangjie reimplementation of Rust crc32f
+- `cron` 1.0.1  —  仓颉语言版本的 Cron 定时任务调度器（从 robfig/cron 移植）
+- `cronlib4cj` 0.1.1  —  Cron expression parser and next-fire calculator for Cangjie (5-field Vixie-style
+- `crossterm` 0.29.1  —  A crossplatform terminal library for manipulating terminals (Cangjie port of cro
+- `css_parser` 1.0.0  —  使用仓颉语言编写的 CSS 解析库
+- `csv4cj` 2.0.1  —  一个用仓颉（Cangjie）语言编写、遵循 RFC 4180 标准的 CSV 处理库；v2.0.0 — 第一个稳定版本
+- `ctype4cj` 1.0.4  —  ctypes def for cangjie on arm64 and x86_64
+- `curl4cj` 0.1.0  —  A curl rewrite in Cangjie language
+- `dashmap4cj` 0.1.1  —  High-performance concurrent sharded hash map and set for Cangjie
+- `dashu` 0.1.113  —  A library set of arbitrary precision numbers (aka. big numbers) for mathematics 
+- `dataenc4cj` 0.1.1  —  Encoding utilities for Cangjie: Base32 (RFC 4648), Base58 (Bitcoin alphabet), an
+- `dataframe4cj` 1.0.0  —  A high-performance DataFrame library for Cangjie language - provides Pandas-like
+- `datamodel2cj` 1.1.1  —  nothing here
+- `dateparse` 1.1.0  —  nothing here
+- `dateparser4cj` 1.1.0  —  Cangjie-native multilingual date and time parser
+- `dateutil4cj` 0.1.1  —  Self-contained proleptic-Gregorian date utilities for Cangjie: Date, day-of-week
+- `decimal4cj` 0.1.1  —  面向金融计算的 96 位定点十进制数仓颉实现
+- `demo` 1.1.8  —  nothing here
+- `deque4cj` 1.1.0  —  nothing here
+- `determine_cjpkg_version` 1.1.0  —  nothing here
+- `dont_install_me` 1.0.1  —  nothing here
+- `dotenv` 1.0.1  —  从 `.env` 文件加载环境变量
+- `dotenv4cj` 0.1.1  —  Parse .env / environment-style KEY=VALUE text into an ordered, typed key-value s
+- `easymacro` 1.0.2  —  Utilities for Cangjie metaprogramming.
+- `elasticsearch4cj` 0.2.0  —  Cangjie Elasticsearch 客户端库
+- `embed` 1.0.7  —  嵌入资源文件(类似go embed)
+- `encoding4cj` 0.8.38  —  Cangjie port of encoding_rs v0.8.35: a semantically 1:1 implementation of the WH
+- `endian4cj` 0.1.0  —  Little/Big-endian in-memory numeric codec for Cangjie: fixed-width signed/unsign
+- `epub` 1.0.6  —  仓颉语言的 EPUB 生成库，支持流式写入
+- `errgroup4cj` 1.0.0  —  Structured task groups with error propagation, cancellation, and concurrency lim
+- `etcd4cj` 0.0.5  —  仓颉原生 etcd v3 客户端：KV/Txn/Watch/Lease/Auth/Cluster/Maintenance、命名空间、分布式锁与选举
+- `eval` 0.6.0  —  Cangjie Eval Package
+- `evently` 1.1.0  —  nothing here
+- `exec` 1.1.0  —  nothing here
+- `fastjson4cj` 0.1.0  —  A pure Cangjie JSON parser and serializer with Fastjson2-inspired APIs.
+- `finmath4cj` 0.1.0  —  Financial mathematics for Cangjie: time value of money (FV/PV/PMT/NPER/RATE/IPMT
+- `fixer` 1.0.0  —  nothing here
+- `flashtext4cj` 1.1.0  —  flashtext for cangjie
+- `flask4cj` 2.1.4  —  仓颉语言 Flask-like Web 框架
+- `flatbuffers` 1.0.1  —  nothing here
+- `floatcmp4cj` 1.0.0  —  Approximate floating-point comparisons for Cangjie
+- `flume4cj` 1.0.0  —  flume4cj: MPMC channel for Cangjie, ported from Rust flume 0.12.0
+- `formular` 1.0.0  —  A formula parser written in Cangjie.
+- `fraction` 1.0.1  —  A comprehensive Fraction library for Cangjie, fully implementing Python Fraction
+- `fswatch` 0.0.1  —  Cross-platform file monitoring core library for Cangjie language with high-perfo
+- `gcoord4cj` 1.0.0  —  Geographic coordinate system conversion library for Cangjie
+- `genex` 1.0.3  —  Genex Cangjie SDK Implementation
+- `getrandom` 0.1.1  —  A small cross-platform package for retrieving random data from system source
+- `gin4cj` 0.2.0  —  A Gin-inspired HTTP web framework implemented in Cangjie
+- `ginger` 1.1.0  —  nothing here
+- `gitoxide` 0.1.3  —  Native git library for Cangjie, migrated from gitoxide of Rust
+- `gitoxide_cli` 0.1.1  —  Git CLI tool powered by gitoxide (Cangjie native Git library)
+- `gjson` 1.2.2  —  高性能的json路径解析、取值工具
+- `glob4cj` 0.1.0  —  Glob path pattern matching for Cangjie: * ? [...] character classes, ** cross-se
+- `governor4cj` 0.4.1  —  governor4cj: 仓颉语言速率限制库，Rust governor (GCRA 算法) 的移植实现。提供 per-second / per-minute 
+- `graph` 1.0.1  —  仓颉语言泛型图数据结构库
+- `graphalg4cj` 0.1.1  —  Graphs and graph algorithms for the Cangjie language (Dijkstra, Bellman-Ford, to
+- `grpc4cj` 0.2.0  —  grpc4cj
+- `grpc4cj_build` 0.2.0  —  grpc4cj build-time code generation library for build.cj
+- `grpc4cj_codegen` 0.2.0  —  grpc4cj code generation engine for protoc plugins
+- `grpc4cj_otel` 0.2.0  —  grpc4cj 的 OpenTelemetry 适配层：将 grpc4cj 的可观测性接口桥接到 opentelemetry4cj。独立于主库，主库 build
+- `handy4cj` 1.1.0  —  nothing here
+- `hashring4cj` 0.1.0  —  Consistent hashing for Cangjie: virtual-node hash ring (ketama style) and rendez
+- `hellohilo` 1.1.0  —  nothing here
+- `hocon4cj` 1.0.5  —  使用仓颉编程语言编写的 Hocon 解析库。
+- `html2markdown` 0.5.0  —  HTML to Markdown converter library for Cangjie
+- `html_entities` 1.0.1  —  仓颉语言的 HTML 实体编解码库，支持命名实体与数字实体的编码与解码。
+- `httpx` 0.28.1  —  A Cangjie port of the HTTPX client core.
+- `huffman4cj` 0.1.0  —  Canonical Huffman coding for Cangjie: deterministic code construction from byte 
+- `humanize` 0.1.0  —  仓颉 Humanize 库 - 将数字、日期、文件大小等信息转换为人类可读的自然语言格式，支持多语言切换和中文本地化增强
+- `humanize4cj` 1.1.0  —  nothing here
+- `idcard4cj` 1.0.0  —  Pure Cangjie parser for Chinese identity documents
+- `igdissect` 0.1.0  —  IgniteKit layered protocol dissection framework + DNS dissector (RFC 1035/2181/6
+- `igmultipart` 0.1.0  —  Streaming multipart/form-data parsing and writing for Cangjie services and clien
+- `ignetdiag` 0.1.0  —  Network diagnostics toolkit in pure Cangjie std: paced UDP throughput pairs with
+- `ignetmirror` 0.1.0  —  Deterministic network emulation and mirror tee in pure Cangjie std: seeded drop/
+- `ignite` 0.8.17  —  Ignite - A high-performance web framework for Cangjie, inspired by Fiber
+- `igntp` 0.2.0  —  SNTP v4 unicast client and timestamp calculations for Cangjie applications.
+- `igpcap` 0.1.0  —  Pure-Cangjie packet-capture library: classic pcap and pcapng read/write, Etherne
+- `igproxyprotocol` 0.1.0  —  PROXY protocol v1/v2 parsing, emission and trusted-proxy relay support for Cangj
+- `igwebtransport` 0.1.0  —  WebTransport model layer in pure Cangjie std: RFC 9297 capsule codec, HTTP/3 fra
+- `iic4cj` 1.0.0  —  A simple cangjie iic library for linux
+- `indexer4cj` 1.1.0  —  nothing here
+- `indexmap4cj` 0.1.0  —  Insertion-ordered hash maps and sets implemented in pure Cangjie.
+- `ini4cj` 1.0.0  —  INI file parser and writer in Cangjie
+- `intervalset4cj` 0.1.1  —  Set-of-integer-intervals for Cangjie: add/remove/contains with automatic merging
+- `ipnet4cj` 0.1.2  —  Cangjie port of Rust ipnet v2.12.0 for IPv4 and IPv6 network address manipulatio
+- `ipnetwork4cj` 1.0.2  —  A Cangjie port of the Rust ipnetwork library - work with IP CIDRs
+- `is_png_cj` 0.2.0  —  判断文件或字节流是否为png图片
+- `is_webp_cj` 1.0.0  —  判断文件或字节流是否为webp图片
+- `jinguissl` 0.9.0  —  Cangjie application facade for cryptography, X.509, TLS, SSH, and QUIC contracts
+- `jinguissl_core` 0.7.7  —  Cangjie cryptography core with X.509, TLS, and SSH protocol primitives
+- `jinja4cj` 0.1.2  —  jinja4cj —— 仓颉版 Jinja2，现代且快速的模板引擎
+- `jjwt4cj` 0.1.0  —  Cangjie JWT / JWS / JWK 库（RFC 7519 / 7515 / 7517 / 7518 / 7638）
+- `json2cj` 1.2.1  —  nothing here
+- `json4cj` 1.0.0  —  A Jackson-inspired JSON serialization library for Cangjie, powered by compile-ti
+- `jsonpath4cj` 1.0.2  —  Standard-compliant JSONPath (RFC 9535) and JSON Pointer (RFC 6901) engine for Ca
+- `jsonvalue` 1.1.0  —  通用动态 JSON 值类型，对标 Rust serde_json::Value
+- `jsoup4cj` 0.1.1  —  jsoup HTML Parser migrated to Cangjie programming language
+- `kdtree4cj` 0.1.0  —  KD-tree spatial index for Cangjie: build from Float64 points in D dimensions, ex
+- `kmp4cj` 1.0.0  —  Knuth-Morris-Pratt string search for Cangjie
+- `kubebuilder_cj` 1.0.0  —  Kubernetes operator builder toolkit for Cangjie programming language
+- `kubeclient_cj` 1.0.0  —  Kubernetes client library for Cangjie programming language
+- `kubecontroller_cj` 1.0.0  —  Kubernetes controller framework for Cangjie programming language
+- `leven4cj` 1.1.0  —  仓颉实现的Levenstein算法
+- `lexopt` 1.0.0  —  A minimalist command-line argument parser for Cangjie, adapted from Rust lexopt.
+- `libpng4cj` 0.8.1  —  Cangjie-native libpng 1.6.58 port with PNG read/write APIs and a preview libpng1
+- `linalg4cj` 0.1.7  —  线性代数库：动态与固定尺寸矩阵、分解、几何、稀疏矩阵
+- `linderHttp` 1.0.0  —  LinderHttp 是一个轻量级 HTTP 客户端库，提供请求构建、响应解析、拦截器等核心功能，帮助开发者高效处理网络请求。
+- `line_cangjie` 1.0.0  —  Pure Cangjie reimplementation of linenoise (core line editing, no completion/hin
+- `linkedhashmap4cj` 1.0.0  —  LinkedHashMap (insertion-order / access-order hash map) for Cangjie
+- `linq4cj` 0.2.0  —  LINQ (Language Integrated Query) library for the Cangjie programming language, p
+- `lisi` 0.1.14  —  Compatibility and utility layer for Cangjie service applications
+- `list_cjpkg_version` 1.1.1  —  nothing here
+- `litem` 0.5.0  —  基于 CDBC 简洁的轻量级 ORM
+- `llm_api` 1.2.1  —  轻量级 LLM REST 封装库，统一接口对接 OpenAI 兼容、Anthropic、Ollama 服务
+- `log4cj` 0.1.0  —  Cangjie 高性能结构化日志库
+- `log4cj_reflect` 0.1.0  —  log4cj 基于 std.reflect 的可选反射字段扩展
+- `logos4cj` 0.1.0  —  仓颉高性能词法分析器库 — 创建极速的词法分析器
+- `loguru4cj` 0.1.3  —  A simple logging library for Cangjie, inspired by Python Loguru
+- `lrc4cj` 0.3.0  —  LRC/SRT/WebVTT 歌词与字幕解析与编辑库，支持 JSON/CSV 导出、Builder 模式、流式解析（仓颉语言）
+- `lru4cj` 0.1.0  —  A pure Cangjie implementation of a least-recently-used cache.
+- `lua4cj` 1.0.3  —  仓颉语言的lua解释器绑定
+- `lua515runner` 0.3.5  —  Lua 5.1.5 runner for Cangjie (typed interop)
+- `lua524runner` 0.3.5  —  Lua 5.2.4 runner for Cangjie (typed interop)
+- `lua536runner` 0.3.5  —  Lite and High performance LuaRunner
+- `lua551runner` 0.3.5  —  Lua 5.5.1 runner for Cangjie (typed interop)
+- `luaRunner` 0.3.5  —  Lite and High performance LuaRunner
+- `luajit4cj` 1.0.1  —  仓颉语言的LuaJIT解释器绑定（Lua 5.1 API，ffi 可用）
+- `luarunnerjit` 0.4.0  —  LuaJIT 2.1 runner for Cangjie (typed interop)
+- `mapsdk` 0.2.0  —  mapsdk — geodesy, slippy tiles, geohash, GeoJSON; pure Cangjie
+- `mariadb` 2.1.0  —  MariaDB driver
+- `markit` 0.0.4  —  High-performance Markdown parser core library for Cangjie language with multi-sp
+- `maud4cj` 0.1.2  —  仓颉 HTML 模板引擎 — 适配自 Rust maud 库。编译时 HTML 模板，支持类型安全、高性能的模板渲染。
+- `mcp` 2.3.14  —  MCP (Model Context Protocol) 服务端框架
+- `memmap4cj` 1.0.0  —  memmap4cj —— 跨平台内存映射 IO 库，移植自 Rust memmap2
+- `migrate` 0.1.0  —  Standalone migration source, planning and recovery state machine
+- `minimp3_cj` 1.0.0  —  A high-performance MP3 decoder fully implemented in Cangjie language
+- `mmapcj` 1.0.0  —  跨平台内存映射文件库 (Linux/macOS/Windows)
+- `mobi` 0.1.0  —  MOBI/AZW3/KF8 writer for Cangjie, based on leotaku/mobi
+- `mongo_driver` 0.1.0  —  纯仓颉 MongoDB 驱动，提供原生 API 与 std.database.sql 门面
+- `mt2` 1.0.0  —  自用的行列式DSL解析器
+- `mustache` 1.2.1  —  仓颉(Cangjie)的Mustache模板引擎
+- `mysql_driver` 0.0.2  —  纯仓颉 MySQL/MariaDB 协议驱动，实现 std.database.sql
+- `naivecancellation` 1.1.0  —  Cancellation utilities for Cangjie
+- `naiveconfiguration` 1.1.0  —  A lightweight configuration library for Cangjie
+- `naiveguardclauses` 1.1.2  —  nothing here
+- `naivehealthcheck` 1.1.0  —  nothing here
+- `naivehealthcheck_sql` 1.1.0  —  SQL database health check extension for naivehealthcheck (std.database.sql based
+- `naivehealthcheck_uris` 1.1.0  —  nothing here
+- `naiveioc` 1.4.1  —  nothing here
+- `naivejson` 1.0.0  —  nothing here
+- `naivejsonschema` 1.0.0  —  nothing here
+- `naivelogger` 1.1.0  —  nothing here
+- `naivelogger_tea` 1.1.0  —  nothing here
+- `naivemediator` 1.1.1  —  nothing here
+- `naiversmapper` 1.1.1  —  nothing here
+- `naiveseedwork` 1.3.0  —  nothing here
+- `naiveserviceresult` 1.1.0  —  nothing here
+- `naivesqlbuilder` 1.2.0  —  nothing here
+- `naiveteaset_contextaccessor` 1.1.0  —  nothing here
+- `naiveteaset_infrastructure` 1.1.0  —  nothing here
+- `naiveteaset_ioc` 1.1.0  —  nothing here
+- `naiveteaset_openapi` 1.1.0  —  nothing here
+- `naiveteaset_validation` 1.1.0  —  nothing here
+- `naivevalidation` 1.1.1  —  nothing here
+- `nanoid4cj` 0.1.1  —  URL-safe unique ID generator (nanoid-style) for Cangjie: standard/custom alphabe
+- `netutil4cj` 0.1.1  —  IPv4 and CIDR helpers for Cangjie: parse/format dotted quad, int<->ip, network/b
+- `nn4cj` 1.0.0  —  cangjie ann
+- `nom4cj` 0.1.0  —  Parser combinator library for Cangjie, ported from Rust nom
+- `notify4cj` 0.1.1  —  跨平台文件系统监控库 — 适配自 Rust notify 库。支持文件变更监听、事件过滤、去抖动与 JSON 序列化。
+- `oidc` 0.1.0  —  Standalone OIDC discovery, RS256 verification and PKCE client
+- `openalsoft4cj` 1.0.0  —  This project encapsulates the C++ library openal-soft into the Cangjie ecosystem
+- `opencode_compose` 1.0.0  —  nothing here
+- `opencode_skill` 1.1.4  —  nothing here
+- `opentelemetry4cj_api` 0.2.0  —  OpenTelemetry API for Cangjie - core interfaces and contracts for tracing, metri
+- `opentelemetry4cj_exporters` 0.2.0  —  OpenTelemetry Exporters for Cangjie - OTLP, Prometheus, Jaeger, Zipkin, and more
+- `opentelemetry4cj_extensions` 0.2.0  —  OpenTelemetry Extensions for Cangjie - auto-configuration and HTTP/gRPC instrume
+- `opentelemetry4cj_sdk` 0.2.0  —  OpenTelemetry SDK for Cangjie - providers, processors, and samplers implementati
+- `otp` 0.1.1  —  One-Time Password Library
+- `paim` 0.2.1  —  Paim - 仓颉语言实用工具库，让复杂的标准库调用缩短为一行语义化代码
+- `pathlib` 0.1.3  —  仓颉语言版pathlib库，参考Python的pathlib实现，提供路径操作、文件系统交互等功能
+- `pbkdf2` 1.0.0  —  pbkdf2 key derivation function for Cangjie
+- `pbt` 0.0.1  —  3-char probe
+- `phf4cj` 0.1.0  —  仓颉完美哈希函数库 — 编译期生成无冲突的 O(1) 查找表（STS 1.1.3 版）
+- `pith` 1.14.0  —  Unified byte plane and memory plane for the Cangjie backend ecosystem.
+- `plist4cj` 1.0.1  —  A Cangjie port of dd-plist: parse and generate Apple property lists (XML / Binar
+- `podtest_core` 0.1.0  —  Containerized testing library for Cangjie - core module
+- `podtest_mysql` 0.1.0  —  PodTest MySQL container module
+- `podtest_postgresql` 0.1.0  —  PodTest PostgreSQL container module
+- `polars4cj` 0.1.14  —  polars4cj —— 仓颉版 Polars，高性能 DataFrame 与 Series 数据处理库
+- `pool24cj` 1.0.0  —  一个对象池，支持Pool KeyedPool，这两个池又可利用初始化参数决定是先进先出还是后进先出，以及池化对象是否Deferred引用。
+- `pool4cj` 0.2.0  —  Cangjie 高性能协程池
+- `poolcj` 1.0.0  —  一个对象池，支持Pool KeyedPool，这两个池又可利用初始化参数决定是先进先出还是后进先出，以及池化对象是否Deferred引用。
+- `postcard4cj` 0.1.0  —  Pure Cangjie implementation of the Postcard wire format and workspace APIs
+- `postgres_driver` 0.0.2  —  纯仓颉 PostgreSQL v3 协议驱动，实现 std.database.sql
+- `postgres_driver_gssapi` 0.0.2  —  可选 MIT/Heimdal GSSAPI 提供者，供 postgres_driver 使用
+- `priorityqueue4cj` 1.0.0  —  A high-performance Index Priority Queue and Double Priority Queue for Cangjie
+- `probabilistic4cj` 0.2.1  —  Probabilistic data structures for the Cangjie language: BloomFilter, CountMinSke
+- `prometheus4cj` 0.2.0  —  Cangjie Prometheus 客户端库
+- `prost4cj` 0.1.0  —  Protocol Buffers encoding and decoding library for Cangjie
+- `protoc_gen_cj` 0.2.0  —  protoc-gen-cj: Cangjie code generator for Protocol Buffers
+- `protoc_gen_cj_grpc` 0.0.3  —  protoc-gen-cj-grpc: Cangjie gRPC service code generator (Layer C, aligned with p
+- `pthread4cj` 1.0.2  —  Linux pthread 绑定（线程与互斥锁的 CFunc 封装）
+- `pulldown4cj` 0.1.0  —  pulldown4cj 是 Rust 库 [pulldown-cmark v0.13.4] 的 Cangjie 语言移植版，一个高性能、低内存的 CommonM
+- `pulldown4cj_escape` 0.1.1  —  HTML escape library for pulldown4cj, ported from pulldown-cmark-escape v0.13.4
+- `pulsar` 0.2.0  —  Pulsar — a minimal reactive kernel for Cangjie: flat-subscriber Signal<T>, lazy 
+- `quadtree4cj` 0.1.1  —  Dynamic point quadtree for Cangjie: bucket-based region decomposition with inser
+- `quill` 1.0.0  —  quill — a pure-Cangjie retained-mode terminal UI framework: 12 widgets, CJK wide
+- `r2d24cj` 0.1.3  —  A generic connection pool for Cangjie, adapted from Rust r2d2
+- `ratatui_backend` 0.1.2  —  Terminal backend abstraction for ratatui-cj
+- `ratatui_buffer` 0.1.2  —  Buffer management for ratatui-cj
+- `ratatui_core` 0.1.2  —  Core geometry types for ratatui-cj
+- `ratatui_examples` 0.30.220260701  —  Examples for ratatui-cj migrated from ratatui-widgets/examples
+- `ratatui_layout` 0.1.2  —  Layout system for ratatui-cj
+- `ratatui_style` 0.1.2  —  Style system for ratatui-cj
+- `ratatui_symbols` 0.1.2  —  Symbol sets for ratatui-cj
+- `ratatui_terminal` 0.1.2  —  Terminal rendering pipeline for ratatui-cj
+- `ratatui_text` 0.1.2  —  Text rendering for ratatui-cj
+- `ratatui_widgets` 0.3.2  —  Widget components for ratatui-cj
+- `ratelimiter4cj` 0.1.0  —  Rate limiting primitives for Cangjie: token bucket and sliding window limiters o
+- `rational4cj` 0.1.1  —  Exact rational numbers (fractions) for Cangjie built on std BigInt: normalized p
+- `redis` 1.0.20260627  —  A Redis client library in Cangjie, supporting RESP2/RESP3, Pipeline, Pub/Sub, Cl
+- `refine` 0.7.1  —  A compile-time type-safe ORM for Cangjie
+- `regex4cj` 0.1.2  —  Rust regex compatible API for Cangjie, backed by std.regex
+- `regex_automata` 0.0.4  —  Cangjie port of regex-automata 0.4.16
+- `regex_syntax` 0.0.4  —  Cangjie port of regex-syntax 0.8.11
+- `reliability` 0.1.0  —  Standalone at-least-once reliability state machines and reference stores
+- `requests4cj` 1.1.0  —  requests for cangjie
+- `retry4cj` 0.1.1  —  Retry primitives for Cangjie: composable backoff strategies, jitter and policy-d
+- `rgf` 2.16.0  —  RGF Cangjie SDK Implementation
+- `ristretto4cj` 1.0.0  —  A high performance memory-bound Cangjie cache
+- `roaring4cj` 0.1.3  —  RoaringBitmap compressed bitmap for Cangjie: UInt32 universe, sorted-array/bitma
+- `rocketmq4cj` 0.2.0  —  Cangjie RocketMQ 客户端库
+- `route` 0.2.0  —  route — Dijkstra and A* over directed weighted graphs; pure Cangjie
+- `rpcx_otel` 0.2.0  —  rpcx 可观测性适配器：桥接 rpcx 的 RpcSpanExporter/RpcMetricsExporter 到 opentelemetry4cj
+- `rrule4cj` 0.1.0  —  RFC 5545 recurrence rules (RRULE) for Cangjie: FREQ/INTERVAL/COUNT/UNTIL/WKST pl
+- `rtree4cj` 0.1.0  —  Dynamic R-tree spatial index for Cangjie: axis-aligned rectangles with insert/up
+- `rustls4cj` 1.0.0  —  Rustls TLS library ported to Cangjie
+- `rycj` 0.0.4  —  This is a cross platform system thread operation library developed based on Cang
+- `ryu` 1.0.0  —  Cangjie port of the Ryu floating-point conversion library
+- `scribe` 0.1.0  —  Binary read/write toolkit for Cangjie: endian-aware integer IO, varint/vluint, r
+- `seajson` 1.5.1  —  SeaJson (释笺) — native JSON infrastructure for Cangjie (pure std, zero external d
+- `seamath` 0.2.0  —  SeaMath — number theory and numeric utilities for Cangjie; pure std
+- `seedhttp` 1.0.0  —  More Faster HTTP Server
+- `segmenttree4cj` 1.0.0  —  Segment Tree data structure library for Cangjie language
+- `selineDownload` 1.0.2  —  基于 仓颉 开发的文件下载库，支持断点续传和多线程下载
+- `selineWebdav` 1.0.0  —  一个基于 Ignite HTTP 框架的 WebDAV 服务器库，使用仓颉（Cangjie）语言编写。
+- `semaphore4cj` 0.22.0  —  A weighted semaphore implementation for Cangjie
+- `semver` 0.0.3  —  Semantic Versioning
+- `semver4cj` 1.0.1  —  SemVer 2.0.0 parser, comparator, and version requirement matcher for Cangjie
+- `semver4cjplus` 0.1.0  —  Rust semver 库的仓颉移植：Semantic Versioning 版本解析与匹配（Version/VersionReq/Prerelease/Bui
+- `sha2` 0.1.0  —  Pure Cangjie port of the RustCrypto `sha2` crate (v0.11.0)
+- `shell_words` 1.1.1  —  Native shell-words library for Cangjie, migrated from rust shell-words
+- `shellexpand4cj` 1.2.0  —  Shell-like string expansion library for Cangjie, ported from Rust shellexpand.
+- `simplejson` 1.1.1  —  nothing here
+- `simplekv` 1.2.0  —  nothing here
+- `sjson` 1.0.0  —  高性能 JSON 值设置工具 - 通过点号路径设置/删除 JSON 值
+- `slowxml` 1.1.0  —  使用仓颉编写的轻量化 XML 解析库。
+- `smol4cj` 1.0.0  —  A Cangjie adaptation of smol, a small async runtime.
+- `sms4` 0.2.0  —  sms4 — SMS gateway abstraction: signing, rate limit, retry queue; pure Cangjie
+- `snappy` 1.0.1  —  Snappy compression library for Cangjie
+- `sonyflake` 1.0.9  —  雪花算法Sonyflake(go)的仓颉实现
+- `sortedlist4cj` 0.1.1  —  Always-sorted, order-statistic list (multiset) for the Cangjie language, backed 
+- `sortedmap4cj` 0.1.1  —  Sorted, navigable key-value map (red-black tree) for the Cangjie language
+- `soulsoft_extensions_caching` 1.1.0  —  缓存扩展库，支持统一的 IDistributedCache 接口与基于内存的默认实现。
+- `soulsoft_extensions_configuration` 1.1.0  —  配置管理库，支持 JSON、环境变量、命令行参数、内存字典等多种配置源。
+- `soulsoft_extensions_healthchecks` 1.1.0  —  健康检查扩展库，支持健康检查注册、并发执行、标签过滤与依赖注入集成。
+- `soulsoft_extensions_hosting` 1.1.0  —  通用主机扩展库，支持后台服务、控制台应用和 Web 应用的统一启动与生命周期管理。
+- `soulsoft_extensions_http` 1.1.0  —  HTTP 客户端工厂扩展库，支持命名客户端注册、处理器管道配置与生命周期管理。
+- `soulsoft_extensions_injection` 1.1.0  —  依赖注入库，支持服务注册、服务解析和控制反转。
+- `soulsoft_extensions_logging` 1.1.0  —  日志核心库，提供日志抽象、过滤规则和多提供者分发能力。
+- `soulsoft_extensions_logging_configuration` 1.1.0  —  日志配置扩展库，支持通过 IConfiguration 管理日志过滤规则。
+- `soulsoft_extensions_logging_console` 1.1.0  —  控制台日志扩展库，提供 simple/json/systemd 三种控制台格式化输出。
+- `soulsoft_extensions_objectpool` 1.1.0  —  对象池库，支持对象复用、策略化创建与归还，以及可释放对象的自动清理。
+- `soulsoft_extensions_options` 1.1.0  —  强类型选项库，支持命名选项、后置配置、验证与依赖注入集成。
+- `soulsoft_extensions_options_configuration` 1.1.0  —  选项配置绑定库，支持将配置数据绑定到强类型选项对象。
+- `soulsoft_extensions_protection` 1.1.0  —  数据保护库，支持数据加密、解密和密钥管理。
+- `soulsoft_extensions_scheduler` 1.1.0  —  任务调度库，支持基于 Cron 表达式的定时任务调度与依赖注入集成。
+- `soulsoft_extensions_sqlsharp` 1.1.0  —  sqlSharp 集成扩展库，支持 DbContext 与依赖注入系统集成。
+- `soulsoft_formats_asn1` 1.0.0  —  仓颉语言的 ASN.1 编解码库，支持 BER、CER、DER 规则，覆盖布尔、整数、字节串、OID、字符串、UTC 时间、Bit 串、SEQUENCE、SET
+- `soulsoft_identity_claims` 1.1.0  —  声明式身份模型库，支持 Claim、ClaimsIdentity 和 ClaimsPrincipal。
+- `soulsoft_identity_protocols` 1.1.0  —  身份协议抽象库，支持协议配置管理和文档检索。
+- `soulsoft_identity_protocols_oidc` 1.1.0  —  OpenID Connect 协议库，支持配置模型、元数据常量和发现文档检索。
+- `soulsoft_identity_server` 1.1.0  —  身份认证服务器，支持 OAuth 2.0 和 OpenID Connect (OIDC) 协议，提供身份认证、授权和令牌管理能力。
+- `soulsoft_identity_tokens` 1.1.0  —  安全令牌基础库，支持密钥、签名、声明和令牌验证相关类型。
+- `soulsoft_identity_tokens_jwt` 1.1.0  —  JWT 令牌库，支持 JSON Web Token (JWT) 的创建、解析和验证。
+- `soulsoft_mediator` 1.1.0  —  中介者模式库，支持请求/响应分发、通知广播与管道行为扩展。
+- `soulsoft_net_http` 1.1.0  —  HTTP 客户端库，支持 HTTP 请求与响应处理、内容编解码和处理器管道。
+- `soulsoft_scheduler` 1.1.0  —  定时任务调度库，支持 Cron 表达式、任务监听和灵活的调度配置。
+- `soulsoft_serialization` 1.1.0  —  JSON 序列化库，支持通过宏生成序列化代码，并提供选项与自定义转换器。
+- `soulsoft_strategy` 1.0.20260108  —  soulsoft_strategy是一款基于策略调度任务的框架。内置丰富的调度策略和选项,支持自定义策略，并且支持管道对策略进行组合编排。
+- `soulsoft_web_authentication` 1.1.0  —  Web 身份认证库，支持认证处理器、认证方案和认证流程扩展。
+- `soulsoft_web_authentication_cookies` 1.1.0  —  Cookie 身份认证库，支持基于 Cookie 的登录状态管理和认证处理。
+- `soulsoft_web_authentication_jwtbearer` 1.1.0  —  JWT Bearer 身份认证库，支持基于 Bearer Token 的 Web 认证。
+- `soulsoft_web_authorization` 1.1.0  —  Web 授权库，支持基于策略、角色和声明的授权控制。
+- `soulsoft_web_cors` 1.1.0  —  CORS 中间件库，支持跨域策略配置、预检请求处理和端点级控制。
+- `soulsoft_web_healthchecks` 1.1.0  —  Web 健康检查库，支持在 Web 应用中暴露健康检查端点。
+- `soulsoft_web_hosting` 1.1.0  —  Web 托管库，支持 HTTP 请求处理管道、应用构建和生命周期管理。
+- `soulsoft_web_http` 1.1.0  —  Web HTTP 抽象库，支持 HTTP 上下文、请求与响应、中间件管道等基础能力。
+- `soulsoft_web_mvc` 1.1.0  —  Web MVC 框架库，支持控制器、模型绑定和响应结果处理。
+- `soulsoft_web_openapi` 1.1.0  —  OpenAPI 支持库，支持 OpenAPI 文档模型和 API 文档生成。
+- `soulsoft_web_routing` 1.1.0  —  Web 路由库，支持 URL 模式解析、端点匹配和路由分组。
+- `soulsoft_web_staticfiles` 1.1.0  —  静态文件中间件库，支持静态文件服务、默认文件、条件请求和 Range 下载。
+- `spi4cj` 1.0.1  —  A simple SPI library for cangjie
+- `spu4cj` 1.1.0  —  nothing here
+- `spu5cj` 1.0.3  —  nothing here
+- `sqlite_driver` 0.0.3  —  纯仓颉 SQLite 驱动，实现 std.database.sql
+- `sqlserver_driver` 0.0.2  —  纯仓颉 SQL Server 驱动，实现 std.database.sql
+- `sqlsharp` 1.1.0  —  轻量级 ORM 库，支持变更跟踪、注解与 FluentAPI 双路配置、多数据库适配和 JSON 字段映射。
+- `squawk` 1.4.0  —  一个用仓颉实现的 SQL 解析器，支持多方言、AST 渲染、分析、转换
+- `statistics4cj` 1.0.0  —  Statistics library for Cangjie, ported from Python's statistics module
+- `stats24cj` 1.0.3  —  Statistics library for Cangjie, ported from Python statistics module with exact 
+- `stats4cj` 1.1.0  —  仓颉实现的简单统计工具
+- `stdx` 1.1.0  —  Extension modules provided by the Cangjie programming language
+- `stdx_crypto` 0.1.1  —  nothing here
+- `stdx_encode` 0.1.0  —  stdx.encoding
+- `stdx_encode_json` 0.1.6  —  stdx_encode_json
+- `stdx_log` 0.1.2  —  stdx.log module
+- `stdx_logger` 0.1.2  —  stdx.logger
+- `stdx_net` 0.1.1  —  stdx.net
+- `stdx_serialization` 0.1.0  —  stdx.serialization
+- `strsim` 0.1.0  —  Implementations of string similarity metrics. Includes Hamming, Levenshtein, OSA
+- `strsim4cj` 1.0.10  —  仓颉语言字符串相似度度量库，对标 Rust strsim
+- `strutil4cj` 0.1.1  —  String utilities for Cangjie filling std gaps: trim, pad, repeat, reverse, case 
+- `suncalc4cj` 2.0.1  —  A pure Cangjie port of SunCalc for sun and moon calculations.
+- `sunku` 1.0.10  —  Redis-compatible local KV database for Cangjie
+- `supabase4cj` 1.0.2  —  仓颉 (Cangjie) 语言的 Supabase 客户端库，提供简洁易用的 API 来访问 Supabase 的认证、数据库和存储服务。
+- `tablib4cj` 1.0.0  —  Tablib 的仓颉语言实现 - 表格数据处理库，支持多种格式导入导出
+- `tang` 1.0.5  —  一个轻量级的web框架
+- `tea` 0.9.1  —  a easy and nice web server
+- `tea_template` 1.1.0  —  nothing here
+- `tempfile` 0.1.1  —  nothing here
+- `termcolor` 1.0.0  —  Terminal color output
+- `test_cangjie_demo` 1.0.0  —  nothing here
+- `test_cjpm_lib` 1.0.0  —  test cjpm lib
+- `textsim4cj` 0.1.1  —  String similarity and edit-distance measures for Cangjie: Levenshtein, Damerau-L
+- `textwrap4cj` 0.1.0  —  A Cangjie text wrapping library inspired by Rust textwrap
+- `time` 1.0.0  —  时间相关开发辅助库。
+- `timezone4cj` 0.1.0  —  获取当前系统的 IANA 时区
+- `tinybasic` 1.0.2  —  Basic Tools
+- `toml2cj` 1.1.0  —  nothing here
+- `tomlcj` 1.0.0  —  TOML 解析与编码库，提取自 cjpm
+- `tower4cj` 0.1.1  —  仓颉 Service/Layer 中间件框架 — 将 Rust tower 迁移到仓颉语言
+- `tsdb` 0.3.4  —  基于 badger-cj 的嵌入式时序数据库
+- `ulid4cj` 0.1.0  —  ULID (Universally Unique Lexicographically Sortable Identifier) for Cangjie: 48-
+- `unicode` 0.1.0  —  Cangjie Unicode Library
+- `unicode_case` 0.1.0  —  Unicode case-insensitive comparison via case folding
+- `unicode_normalization` 0.1.25  —  Unicode character composition and decomposition utilities per UAX #15
+- `unicode_width` 0.1.0  —  Determine displayed width of Unicode characters per UAX #11
+- `unicodenorm4cj` 0.1.0  —  纯仓颉 Unicode 17.0.0 规范化库，提供 NFD、NFC、NFKD 和 NFKC。
+- `unicodenorm4cjplus` 0.1.0  —  纯仓颉 Unicode 17.0.0 规范化库，提供 NFD、NFC、NFKD 和 NFKC。
+- `unicodeseg4cj` 1.0.0  —  Unicode grapheme, word, and sentence segmentation for Cangjie
+- `unicodewidth` 0.1.113  —  unicode字符及字符串显示宽度计算
+- `union` 1.1.0  —  使用宏，为cangjie的ffi接口生成union类型
+- `units4cj` 0.1.1  —  Unit conversion (length/mass/time/data/volume/area, temperature) and largest-rem
+- `url_parse` 1.0.0  —  基于仓颉语言的 URL 解析库，支持 URL 组件的结构化解析、查询参数提取、协议/host/port/path 等字段的类型安全访问
+- `validator4cj` 0.1.0  —  Declarative data validation for Cangjie: composable rules with semantic error co
+- `victor` 1.0.0  —  一个仓颉（Cangjie）的 2D 矢量库，带有用于矢量操作的常见方法
+- `wal4cj` 1.0.0  —  nothing here
+- `walkdir4cj` 0.1.0  —  A recursive directory traversal library for Cangjie.
+- `wen` 0.4.0  —  An Express-like web framework written in the Cangjie programming language.
+- `wen_contrib` 0.4.0  —  Optional middleware for Wen — helmet / csrf / cors / auth / logger / requestId /
+- `whoami4cj` 0.1.0  —  Cangjie system identity and environment information library
+- `winUI4cj` 1.0.1  —  调用 Win32 API 构建的原生 GUI 框架，零外部依赖
+- `win_gui` 1.2.0  —  调用 Win32 API 构建的原生 GUI 框架，零外部依赖; 原包名 winUI4cj
+- `windows_collections` 0.1.0  —  WinRT collection projections and stock helpers for Cangjie
+- `windows_core` 0.1.0  —  Core runtime types for Windows API bindings in Cangjie
+- `windows_foundation` 0.1.0  —  WinRT Foundation projections (Uri, PropertyValue, MemoryBuffer, etc.) for Cangji
+- `windows_future` 0.1.0  —  WinRT async (IAsyncOperation/IAsyncAction) projections and await helpers for Can
+- `windows_interface` 0.1.0  —  Windows interface descriptors and wrappers for Cangjie bindings
+- `windows_libloading` 0.1.0  —  Cached Windows DLL loading helpers for generated bindings
+- `windows_numerics` 0.1.0  —  Windows numerics helpers for Cangjie bindings
+- `windows_polyfill` 0.1.0  —  Runtime polyfill for windows-cj bindgen-generated code
+- `windows_propvariant` 0.1.0  —  Windows PROPVARIANT helpers for Cangjie bindings
+- `windows_registry` 0.1.0  —  Windows registry helpers for Cangjie bindings
+- `windows_result` 0.1.0  —  Result and status-code primitives for Windows bindings in Cangjie
+- `windows_safearray` 0.1.0  —  Windows SAFEARRAY helpers for Cangjie bindings
+- `windows_services` 0.1.0  —  Windows service helpers for Cangjie bindings
+- `windows_strings` 0.1.0  —  Windows string wrappers for Cangjie bindings
+- `windows_threading` 0.1.0  —  Windows thread pool helpers for Cangjie
+- `windows_variant` 0.1.0  —  Windows VARIANT helpers for Cangjie bindings
+- `windows_version` 0.1.0  —  Windows version query helpers for Cangjie
+- `windows_winui3` 0.1.0  —  Runtime-only WinUI 3 support package for generated Windows projections
+- `xlsx4cj` 1.7.1  —  Pure Cangjie library for reading, writing and modifying Excel xlsx files based o
+- `xpath` 1.0.0  —  nothing here
+- `xsd` 1.0.0  —  XSD validation library for Cangjie
+- `xxhash` 1.0.0  —  nothing here
+- `xxhash4cj` 0.1.0  —  xxHash algorithm library - XXH32/XXH64/XXH3
+- `yaml4cj` 1.0.4  —  YAML解析工具
+- `zmq` 0.2.1  —  ZeroMQ bindings for Cangjie
+- `zstd4cj` 1.5.7  —  Cangjie bindings for the vendored Zstandard C library.
+
+### fountain (43 个)
+
+- `fountain::f_app` 1.3.2  —  依赖fountain开发的应用进程启动模块
+- `fountain::f_aspect` 1.3.2  —  AOP
+- `fountain::f_base` 1.3.2  —  一些Iterator扩展，enum OS, 不需要使用unsafe就能获得字符串原始字节数组的字符串扩展, 不需要使用unsafe就能得到ArrayList原始
+- `fountain::f_bean` 1.3.2  —  IOC
+- `fountain::f_bloom` 1.3.2  —  布隆过滤器
+- `fountain::f_cache` 1.3.2  —  堆缓存
+- `fountain::f_cmd` 1.3.2  —  命令行工具
+- `fountain::f_codec` 1.3.2  —  编解码器
+- `fountain::f_collection` 1.3.2  —  标准库尚不支持的集合以及一些标准库集合扩展
+- `fountain::f_concurrent` 1.3.2  —  负载均衡、限流算法、标准库尚不支持的并发集合和标准库并发集合扩展
+- `fountain::f_config` 1.3.2  —  配置模块
+- `fountain::f_crypto` 1.3.2  —  加密模块
+- `fountain::f_data` 1.3.2  —  数据复制、数据验证
+- `fountain::f_egraph` 1.3.2  —  一个事件驱动的业务流程执行器
+- `fountain::f_exception` 1.3.2  —  异常模块
+- `fountain::f_health` 1.3.2  —  收集进程运行数据作为健康检查信息、注册健康检查实现，按照配置向注册的实现发送健康检查数据
+- `fountain::f_http` 1.3.2  —  HTTP
+- `fountain::f_httpclient` 1.3.2  —  HTTP客户端
+- `fountain::f_io` 1.3.2  —  IO模块
+- `fountain::f_jwt` 1.3.2  —  JWT
+- `fountain::f_llm` 1.1.4  —  大模型驭缰工程，包含记忆保存与经验总结、函数、大模型访问、智能体定义，以及技能、智能体描述、经验查询
+- `fountain::f_log` 1.3.2  —  日志
+- `fountain::f_macros` 1.3.2  —  宏工具API
+- `fountain::f_mockdb` 1.3.2  —  mock database
+- `fountain::f_mvc` 1.3.2  —  MVC
+- `fountain::f_net` 1.3.2  —  事件驱动的网络通讯模块
+- `fountain::f_orm` 1.3.2  —  orm
+- `fountain::f_pool` 1.3.2  —  一个池的实现，提供了对象池、数组池、ArrayList池
+- `fountain::f_process` 1.3.2  —  进程扩展模块
+- `fountain::f_protocol` 1.3.2  —  一个网络通讯协议实现
+- `fountain::f_random` 1.3.2  —  随机数扩展, ThreadLocalRandom, 蓄水池算法, 随机字符串
+- `fountain::f_regex` 1.3.2  —  正则表达式扩展、正则缓存、正则DSL
+- `fountain::f_rx` 1.3.2  —  反应式编程API
+- `fountain::f_security` 1.3.2  —  配合MVC使用的安全模块
+- `fountain::f_store` 1.3.2  —  存储模块，包含依赖mmap的WAL和LSM-Tree
+- `fountain::f_ticktock` 1.3.2  —  CRON定时器模块
+- `fountain::f_time` 1.3.2  —  标准库的时间API扩展
+- `fountain::f_uring` 1.3.2  —  liburing ffi
+- `fountain::f_util` 1.3.2  —  crc16/密钥交换协议/命名风格转换/常用设计模式/geohash/snowflake/UUID/murmur_hash/路径匹配/文本模板/树结构转换
+- `fountain::f_version` 1.3.2  —  应用与fountain的版本信息和应用BANNER
+- `fountain::fboot` 1.3.2  —  依赖fountain的应用项目启动程序
+- `fountain::fleet` 1.3.2  —  数据同步工具，可用于做配置中心
+- `fountain::fountain` 1.3.2  —  utility for server app development
+
+### jiujiang (2 个)
+
+- `jiujiang::cjui_core` 0.0.2  —  CJUI Cangjie core runtime
+- `jiujiang::path_to_regex` 1.0.0  —  A Cangjie path template library for matching, parameter extraction, regexp gener
+
+### naiveworks (2 个)
+
+- `naiveworks::jwt4cj` 1.2.0  —  jwt4cj
+- `naiveworks::sql_builder` 1.1.1  —  SQL script builder
+
+### opencj (3 个)
+
+- `opencj::http_router` 0.1.1  —  restful路径解析工具
+- `opencj::multipart` 0.1.3  —  解析http请求中的multipart部分
+- `opencj::ulid` 0.1.2  —  通用唯一的字典排序标识符
+
+### simcu (5 个)
+
+- `simcu::orm` 1.4.1  —  SimApi 数据访问层 ORM：数据模型映射 + 增删改查 + 数据库迁移；多方言架构，内置 openGauss/PostgreSQL 方言
+- `simcu::otp` 1.0.1  —  SimApi OTP（一次性密码）库：HOTP/TOTP 实现（RFC 4226/6238），Base32 密钥与 otpauth:// URI 生成
+- `simcu::serialization` 1.2.1  —  SimApi 全反射 JSON 序列化库
+- `simcu::simapi` 1.0.3  —  SimApi 仓颉版：ASP.NET Core 风格 API 基础框架（统一响应/异常拦截/Token认证/缓存/工具集/HTTP客户端）
+- `simcu::websocket` 1.2.1  —  SimApi WebSocket 库（RFC 6455）：事件回调式客户端与接口式服务端。客户端 connect/send(三重重载)/ping/close/t
+
+### soulsoft (1 个)
+
+- `soulsoft::nacos` 1.0.20260428  —  Nacos 仓颉语言 SDK，实现了 Nacos 服务注册与发现的核心功能。
+
+### testorg (2 个)
+
+- `testorg::publish_test` 1.0.4  —  测试发布 
+ 中文内容 
+ 仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，
+- `testorg::publish_test3` 1.0.0  —  测试发布 
+ 中文内容 
+ 仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，
+
+### tybb2026 (11 个)
+
+- `tybb2026::tycj_ai` 2.4.1  —  tycj AI 模块 - 多 Provider LLM 抽象、Agent 框架、RAG 检索增强生成
+- `tybb2026::tycj_async` 3.2.1  —  仓颉语言异步编程工具库
+- `tybb2026::tycj_cache` 2.1.0  —  高性能缓存服务模块，提供 Redis 兼容的内存缓存功能
+- `tybb2026::tycj_common` 3.1.0  —  tycj 通用工具库 - 提供字符串、日期、数字、集合、JSON、配置、日志、缓存、校验、分布式ID、链路追踪等常用工具函数
+- `tybb2026::tycj_crypto` 3.1.0  —  tycj 加密工具库 - 提供 MD5、SHA-256、HMAC、Base64、SM2、SM3、SM4、AES-GCM、RSA、同态加密、安全多方计算、零知识证
+- `tybb2026::tycj_net` 3.1.0  —  HTTP网络库 - 服务器/客户端/路由/中间件/TLS/WebSocket/HTTP2/HTTP3
+- `tybb2026::tycj_orm` 3.1.0  —  仓颉语言 ORM 框架 - 提供数据库连接池、查询构建器、实体映射、事务管理、企业级监控等功能
+- `tybb2026::tycj_security` 3.1.0  —  tycj 安全工具库 - 包含加密、JWT、输入验证、XSS防护、CSRF防护、速率限制等安全功能
+- `tybb2026::tycj_storage` 2.5.0  —  高性能对象存储服务模块，提供 MinIO/S3 兼容的企业级对象存储功能
+- `tybb2026::tycj_template` 1.1.1  —  tycj 模板引擎 - 支持 HTML 模板渲染，类似 Jinja2/Handlebars 语法
+- `tybb2026::tycj_web` 3.1.0  —  仓颉语言 Web MVC 框架 - 提供完整的 Web 开发能力
+
+### ystyle (26 个)
+
+- `ystyle::cjdep` 1.3.1  —  仓颉依赖分析与发布顺序工具：解析 cjpm.toml 工作空间/path/中心仓依赖，生成依赖发布顺序并列出可升级包
+- `ystyle::cordis_core` 0.1.0  —  Cordis 动态组合框架核心：协议消息类型与配置加载
+- `ystyle::cordis_host` 0.1.0  —  Cordis 动态组合框架宿主：进程管理与调谐器
+- `ystyle::cordis_plugin` 0.1.0  —  Cordis 动态组合框架插件 SDK
+- `ystyle::crc` 1.0.0  —  CRC 校验和库，提供 CRC32 (IEEE) 和 CRC32C (Castagnoli) 实现
+- `ystyle::defer` 1.0.0  —  宏实现类似 Golang 的 `defer` 机制
+- `ystyle::dicj` 1.0.0  —  基于泛型的轻量级依赖注入框架，移植自 go 的 samber/do
+- `ystyle::dotenv` 1.1.1  —  从.env文件中加载环境变量
+- `ystyle::emitter` 1.0.0  —  一个轻量级的emit框架
+- `ystyle::holt` 1.0.8  —  嵌入式图数据库 (Graph Database)
+- `ystyle::jsonrpc` 0.7.7  —  JSON-RPC 2.0 通用框架
+- `ystyle::jsonrpc_http` 0.7.7  —  JSON-RPC HTTP 传输层
+- `ystyle::jsonrpc_stdio` 0.7.7  —  JSON-RPC Stdio 传输层
+- `ystyle::jsonrpc_tcp` 0.7.7  —  JSON-RPC TCP 传输层
+- `ystyle::jsonrpc_unix` 0.7.7  —  JSON-RPC Unix Socket 传输层
+- `ystyle::jsonrpc_websocket` 0.7.7  —  JSON-RPC WebSocket 传输层
+- `ystyle::lsp_core` 0.2.1  —  LSP 服务器与客户端核心框架
+- `ystyle::lsp_stdio` 0.2.1  —  LSP Stdio 传输层
+- `ystyle::lsp_types` 0.2.1  —  LSP 3.17 协议类型库
+- `ystyle::pathx` 0.1.0  —  灵感来自 Python pathlib，仓颉 Path 类型的扩展
+- `ystyle::rpcx` 1.3.0  —  轻量级、开箱即用的 RPC 框架，适合微服务内部通信
+- `ystyle::shx` 0.2.0  —  仓颉脚本工具库：跨平台文件操作、命令执行、路径与环境变量辅助
+- `ystyle::strcase` 0.1.0  —  字符串大小写转换库（snake/kebab/camel/delimited）
+- `ystyle::tar` 1.1.0  —  Go archive/tar 的仓颉移植 - tar 归档库
+- `ystyle::xisp` 0.4.0  —  星枢 - 仓颉嵌入式 Lisp 脚本语言
+- `ystyle::zip` 1.0.6  —  ZIP 归档文件的仓颉语言实现，移植自 Go 的 archive/zip 包
