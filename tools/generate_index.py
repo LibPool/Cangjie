@@ -10,9 +10,6 @@ WORKERS = 20
 RETRIES = 3
 SLEEP = 0.03
 
-ALL_LETTERS = [chr(ord("a") + i) for i in range(26)]
-
-
 def http_get(url, retries=RETRIES):
     last = None
     for attempt in range(retries):
@@ -26,54 +23,45 @@ def http_get(url, retries=RETRIES):
     raise last
 
 
-def fetch_one_prefix(prefix):
-    """Fetch all packages matching a name prefix (API caps at ~100 per query)."""
-    url = f"{REMOTE}/v1/artifact/searchPackages?name={urllib.parse.quote(prefix)}&pageSize={PAGE_SIZE}"
+def fetch_page(page_num):
+    url = f"{REMOTE}/v1/artifact/searchPackages?pageNum={page_num}&pageSize={PAGE_SIZE}"
     data = http_get(url)
     if data.get("code") != 200:
-        print(f"  API error for prefix '{prefix}': {data.get('msg')}", file=sys.stderr)
-        return [], 0
+        raise RuntimeError(f"Package API error on page {page_num}: {data.get('msg')}")
     results = data["data"]["results"]
     total = data["data"]["totalRecords"]
     return results, total
 
 
 def fetch_packages():
-    """Enumerate all packages by name prefix (API pagination is broken)."""
-    seen = {}
-    # Phase 1: single-letter prefixes
-    singles = {}
-    for letter in ALL_LETTERS:
-        results, total = fetch_one_prefix(letter)
-        singles[letter] = (results, total)
+    """Enumerate the package registry and fail if pagination is incomplete."""
+    pkgs = []
+    expected_total = None
+    page_num = 1
+    while True:
+        results, total = fetch_page(page_num)
+        if expected_total is None:
+            expected_total = total
+        elif total != expected_total:
+            raise RuntimeError(f"Package count changed while fetching: {expected_total} -> {total}")
+        pkgs.extend(results)
+        print(f"  page {page_num}: {len(pkgs)}/{expected_total}")
+        if len(pkgs) >= expected_total or not results:
+            break
+        page_num += 1
         time.sleep(SLEEP)
 
-    # Phase 2: subdivide any prefix whose total exceeds PAGE_SIZE
-    for letter, (results, total) in singles.items():
-        if total > PAGE_SIZE:
-            # Need two-letter subdivision
-            print(f"  prefix '{letter}' has {total} results, subdividing...")
-            sub_seen = {}
-            for letter2 in ALL_LETTERS:
-                prefix = letter + letter2
-                sub_results, sub_total = fetch_one_prefix(prefix)
-                for p in sub_results:
-                    key = (p.get("group", "default"), p["name"])
-                    if key not in sub_seen:
-                        sub_seen[key] = p
-                time.sleep(SLEEP)
-            # Use subdivided results (deduplicated)
-            for key, p in sub_seen.items():
-                seen[key] = p
-        else:
-            for p in results:
-                key = (p.get("group", "default"), p["name"])
-                if key not in seen:
-                    seen[key] = p
-
-    pkgs = list(seen.values())
-    print(f"Total unique packages: {len(pkgs)}")
-    return pkgs
+    unique = {}
+    for pkg in pkgs:
+        key = (pkg.get("group", "default"), pkg["name"])
+        unique[key] = pkg
+    if len(pkgs) != expected_total or len(unique) != expected_total:
+        raise RuntimeError(
+            f"Incomplete package listing: expected {expected_total}, "
+            f"received {len(pkgs)} records / {len(unique)} unique packages"
+        )
+    print(f"Total unique packages: {len(unique)}")
+    return list(unique.values())
 
 
 def fetch_versions(group, name):
@@ -203,14 +191,7 @@ def write_readme(pkgs):
 
 
 def main():
-    # Clean old data
-    out_dir = Path(VERSION)
-    if out_dir.exists():
-        import shutil
-        shutil.rmtree(out_dir)
-        print(f"Cleaned {out_dir}")
-
-    print("Fetching package list by name prefix...")
+    print("Fetching package list by page...")
     pkgs = fetch_packages()
 
     print(f"Fetching versions + writing {len(pkgs)} md files with {WORKERS} workers...")
