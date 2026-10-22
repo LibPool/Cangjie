@@ -28,6 +28,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_extensions_injection
 - cjpm 安装: `cjpm install soulsoft_extensions_injection`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 781
+- 下载量: 844
 - 发布者: soulsoft
 - 许可证: MIT

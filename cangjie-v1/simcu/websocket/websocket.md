@@ -22,5 +22,5 @@ SimApi WebSocket 库（RFC 6455）：事件回调式客户端与接口式服务�
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/simcu::websocket
 - cjpm 安装: `cjpm install simcu::websocket`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 3
+- 下载量: 6
 - 发布者: 冰羽凌

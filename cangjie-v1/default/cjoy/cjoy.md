@@ -20,6 +20,6 @@ a fast, lightweight and joy web framework
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjoy
 - cjpm 安装: `cjpm install cjoy`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 46
+- 下载量: 49
 - 发布者: lanlingx
 - 许可证: MulanPSL-2.0

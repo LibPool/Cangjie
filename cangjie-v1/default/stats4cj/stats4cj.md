@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/stats4cj
 - cjpm 安装: `cjpm install stats4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 7
 - 发布者: Chemxy
 - 许可证: Apache-2.0

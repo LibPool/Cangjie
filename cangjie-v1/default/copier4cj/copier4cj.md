@@ -12,6 +12,8 @@ A copier library for Cangjie
 
 ## 历史版本号
 
+- 0.0.5
+- 0.0.4
 - 0.0.3
 - 0.0.2
 - 0.0.1
@@ -21,5 +23,6 @@ A copier library for Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/copier4cj
 - cjpm 安装: `cjpm install copier4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 6
 - 发布者: ZhaoJun
+- 许可证: MIT

@@ -28,6 +28,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_staticfiles
 - cjpm 安装: `cjpm install soulsoft_web_staticfiles`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 247
+- 下载量: 281
 - 发布者: soulsoft
 - 许可证: MIT

@@ -21,6 +21,6 @@ A Redis client library in Cangjie, supporting RESP2/RESP3, Pipeline, Pub/Sub, Cl
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/redis
 - cjpm 安装: `cjpm install redis`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 18
+- 下载量: 30
 - 发布者: 陈先生
 - 许可证: MIT

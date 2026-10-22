@@ -12,6 +12,8 @@ Cangjie 高性能协程池
 
 ## 历史版本号
 
+- 0.2.2
+- 0.2.1
 - 0.2.0
 - 0.1.1
 - 0.1.0
@@ -24,5 +26,5 @@ Cangjie 高性能协程池
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/pool4cj
 - cjpm 安装: `cjpm install pool4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 20
+- 下载量: 45
 - 发布者: ZhaoJun

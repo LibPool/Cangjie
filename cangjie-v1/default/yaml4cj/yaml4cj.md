@@ -19,5 +19,5 @@ YAML解析工具
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/yaml4cj
 - cjpm 安装: `cjpm install yaml4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 12
+- 下载量: 15
 - 发布者: Neila

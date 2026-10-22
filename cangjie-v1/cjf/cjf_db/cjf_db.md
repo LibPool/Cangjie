@@ -12,6 +12,7 @@ CangjieFrame data access layer: DAO, sharding, GraphQL
 
 ## 历史版本号
 
+- 0.0.4
 - 0.0.3
 - 0.0.1
 
@@ -20,6 +21,6 @@ CangjieFrame data access layer: DAO, sharding, GraphQL
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjf::cjf_db
 - cjpm 安装: `cjpm install cjf::cjf_db`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 5
+- 下载量: 11
 - 发布者: ZhaoJun
 - 许可证: Apache-2.0

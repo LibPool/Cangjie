@@ -27,6 +27,6 @@ Web MVC 框架库，支持控制器、模型绑定和响应结果处理。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_mvc
 - cjpm 安装: `cjpm install soulsoft_web_mvc`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 476
+- 下载量: 522
 - 发布者: soulsoft
 - 许可证: MIT

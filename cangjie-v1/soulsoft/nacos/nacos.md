@@ -19,6 +19,6 @@ Nacos 仓颉语言 SDK，实现了 Nacos 服务注册与发现的核心功能。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft::nacos
 - cjpm 安装: `cjpm install soulsoft::nacos`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 7
+- 下载量: 15
 - 发布者: soulsoft
 - 许可证: MIT

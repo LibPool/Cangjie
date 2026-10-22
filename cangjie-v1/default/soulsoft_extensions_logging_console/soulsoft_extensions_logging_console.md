@@ -21,6 +21,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_extensions_logging_console
 - cjpm 安装: `cjpm install soulsoft_extensions_logging_console`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 288
+- 下载量: 350
 - 发布者: soulsoft
 - 许可证: MIT

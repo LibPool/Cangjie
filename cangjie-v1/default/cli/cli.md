@@ -22,5 +22,5 @@ nothing here
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cli
 - cjpm 安装: `cjpm install cli`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 16
 - 发布者: mcbbsandnz

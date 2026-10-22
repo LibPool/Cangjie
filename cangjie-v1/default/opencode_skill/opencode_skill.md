@@ -23,5 +23,5 @@ nothing here
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/opencode_skill
 - cjpm 安装: `cjpm install opencode_skill`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 134
+- 下载量: 136
 - 发布者: zhangyin_gitcode

@@ -19,5 +19,5 @@ Implementations of string similarity metrics. Includes Hamming, Levenshtein, OSA
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/strsim
 - cjpm 安装: `cjpm install strsim`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 2
 - 发布者: Zxilly

@@ -19,6 +19,6 @@ A high-performance Index Priority Queue and Double Priority Queue for Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/priorityqueue4cj
 - cjpm 安装: `cjpm install priorityqueue4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 2
 - 发布者: Sino_Miles
 - 许可证: Apache-2.0

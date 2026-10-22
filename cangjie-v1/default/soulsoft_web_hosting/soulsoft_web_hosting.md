@@ -27,6 +27,6 @@ Web 托管库，支持 HTTP 请求处理管道、应用构建和生命周期管�
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_hosting
 - cjpm 安装: `cjpm install soulsoft_web_hosting`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 753
+- 下载量: 815
 - 发布者: soulsoft
 - 许可证: MIT

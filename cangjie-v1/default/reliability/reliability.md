@@ -12,6 +12,7 @@ Standalone at-least-once reliability state machines and reference stores
 
 ## 历史版本号
 
+- 0.1.1
 - 0.1.0
 - 0.0.1
 
@@ -20,5 +21,5 @@ Standalone at-least-once reliability state machines and reference stores
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/reliability
 - cjpm 安装: `cjpm install reliability`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 16
 - 发布者: ZhaoJun

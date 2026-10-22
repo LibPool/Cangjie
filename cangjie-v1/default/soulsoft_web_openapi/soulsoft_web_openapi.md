@@ -27,6 +27,6 @@ OpenAPI 支持库，支持 OpenAPI 文档模型和 API 文档生成。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_openapi
 - cjpm 安装: `cjpm install soulsoft_web_openapi`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 231
+- 下载量: 265
 - 发布者: soulsoft
 - 许可证: MIT

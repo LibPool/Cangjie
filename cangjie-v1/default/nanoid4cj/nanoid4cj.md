@@ -20,5 +20,5 @@ URL-safe unique ID generator (nanoid-style) for Cangjie: standard/custom alphabe
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/nanoid4cj
 - cjpm 安装: `cjpm install nanoid4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 3
 - 发布者: fpwdh

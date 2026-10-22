@@ -20,6 +20,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/opencj::ulid
 - cjpm 安装: `cjpm install opencj::ulid`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 49
+- 下载量: 112
 - 发布者: YSTYLE-LXY
 - 许可证: MulanPSL-2.0

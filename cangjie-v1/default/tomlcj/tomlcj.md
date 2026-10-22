@@ -19,6 +19,6 @@ TOML 解析与编码库，提取自 cjpm
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/tomlcj
 - cjpm 安装: `cjpm install tomlcj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 40
+- 下载量: 79
 - 发布者: YSTYLE-LXY
 - 许可证: Apache-2.0

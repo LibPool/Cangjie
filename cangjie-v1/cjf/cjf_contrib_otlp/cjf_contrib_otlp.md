@@ -12,6 +12,7 @@ cjf contrib — OTLP/HTTP trace, metric and log exporters wired into cjf_otel
 
 ## 历史版本号
 
+- 0.0.4
 - 0.0.3
 - 0.0.1
 

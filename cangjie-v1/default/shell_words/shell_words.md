@@ -19,5 +19,5 @@ Native shell-words library for Cangjie, migrated from rust shell-words
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/shell_words
 - cjpm 安装: `cjpm install shell_words`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 5
 - 发布者: Jet

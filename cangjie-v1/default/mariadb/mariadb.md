@@ -19,5 +19,5 @@ MariaDB driver
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/mariadb
 - cjpm 安装: `cjpm install mariadb`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 51
+- 下载量: 55
 - 发布者: Yesokim

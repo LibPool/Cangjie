@@ -24,6 +24,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/mustache
 - cjpm 安装: `cjpm install mustache`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 38
+- 下载量: 43
 - 发布者: YSTYLE-LXY
 - 许可证: MulanPSL-2.0

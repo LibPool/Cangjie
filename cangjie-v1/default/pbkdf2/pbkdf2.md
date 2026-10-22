@@ -19,6 +19,6 @@ pbkdf2 key derivation function for Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/pbkdf2
 - cjpm 安装: `cjpm install pbkdf2`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 23
+- 下载量: 53
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

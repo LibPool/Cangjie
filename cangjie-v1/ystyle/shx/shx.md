@@ -12,6 +12,7 @@
 
 ## 历史版本号
 
+- 0.2.1
 - 0.2.0
 - 0.1.0
 
@@ -20,6 +21,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::shx
 - cjpm 安装: `cjpm install ystyle::shx`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 16
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

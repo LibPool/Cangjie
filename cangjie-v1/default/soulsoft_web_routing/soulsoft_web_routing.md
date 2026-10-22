@@ -27,6 +27,6 @@ Web 路由库，支持 URL 模式解析、端点匹配和路由分组。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_routing
 - cjpm 安装: `cjpm install soulsoft_web_routing`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 760
+- 下载量: 822
 - 发布者: soulsoft
 - 许可证: MIT

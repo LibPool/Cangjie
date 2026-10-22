@@ -19,6 +19,6 @@ A minimalist command-line argument parser for Cangjie, adapted from Rust lexopt.
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/lexopt
 - cjpm 安装: `cjpm install lexopt`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 2
 - 发布者: ivel
 - 许可证: MIT

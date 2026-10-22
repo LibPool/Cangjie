@@ -12,6 +12,9 @@ OpenTelemetry SDK for Cangjie - providers, processors, and samplers implementati
 
 ## 历史版本号
 
+- 0.2.3
+- 0.2.2
+- 0.2.1
 - 0.2.0
 - 0.1.1
 - 0.1.0
@@ -23,5 +26,5 @@ OpenTelemetry SDK for Cangjie - providers, processors, and samplers implementati
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/opentelemetry4cj_sdk
 - cjpm 安装: `cjpm install opentelemetry4cj_sdk`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 28
+- 下载量: 50
 - 发布者: ZhaoJun

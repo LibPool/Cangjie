@@ -12,6 +12,7 @@ cjf contrib — configurable alert rule engine with metric threshold evaluation
 
 ## 历史版本号
 
+- 0.0.4
 - 0.0.3
 - 0.0.1
 

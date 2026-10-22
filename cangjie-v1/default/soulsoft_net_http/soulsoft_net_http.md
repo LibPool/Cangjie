@@ -28,6 +28,6 @@ HTTP 客户端库，支持 HTTP 请求与响应处理、内容编解码和处理
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_net_http
 - cjpm 安装: `cjpm install soulsoft_net_http`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 569
+- 下载量: 617
 - 发布者: soulsoft
 - 许可证: MIT

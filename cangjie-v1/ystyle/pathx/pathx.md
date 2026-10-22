@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::pathx
 - cjpm 安装: `cjpm install ystyle::pathx`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 4
+- 下载量: 5
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

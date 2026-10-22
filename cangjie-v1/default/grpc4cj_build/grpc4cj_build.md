@@ -12,6 +12,9 @@ grpc4cj build-time code generation library for build.cj
 
 ## 历史版本号
 
+- 0.2.3
+- 0.2.2
+- 0.2.1
 - 0.2.0
 - 0.1.2
 - 0.1.1
@@ -22,5 +25,5 @@ grpc4cj build-time code generation library for build.cj
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/grpc4cj_build
 - cjpm 安装: `cjpm install grpc4cj_build`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 3
 - 发布者: ZhaoJun

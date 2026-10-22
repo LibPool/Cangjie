@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/pbt
 - cjpm 安装: `cjpm install pbt`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 4
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

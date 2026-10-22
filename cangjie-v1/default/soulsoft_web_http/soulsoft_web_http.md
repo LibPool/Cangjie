@@ -27,6 +27,6 @@ Web HTTP 抽象库，支持 HTTP 上下文、请求与响应、中间件管道�
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_http
 - cjpm 安装: `cjpm install soulsoft_web_http`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 767
+- 下载量: 829
 - 发布者: soulsoft
 - 许可证: MIT

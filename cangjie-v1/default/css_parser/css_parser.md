@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/css_parser
 - cjpm 安装: `cjpm install css_parser`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 5
+- 下载量: 7
 - 发布者: Deerio Chaelingo
 - 许可证: MIT

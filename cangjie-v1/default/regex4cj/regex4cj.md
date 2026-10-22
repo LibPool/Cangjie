@@ -21,6 +21,6 @@ Rust regex compatible API for Cangjie, backed by std.regex
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/regex4cj
 - cjpm 安装: `cjpm install regex4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 5
+- 下载量: 8
 - 发布者: Fish_bone233
 - 许可证: MIT

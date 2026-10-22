@@ -4,7 +4,7 @@
 
 ## 简介
 
-Segment Tree data structure library for Cangjie language
+High-performance Segment Tree data structure library for Cangjie language with Monoid-based generic design, lazy propagation, iterative implementation, and count segment tree.
 
 ## 官网
 
@@ -12,6 +12,7 @@ Segment Tree data structure library for Cangjie language
 
 ## 历史版本号
 
+- 1.2.0
 - 1.0.0
 
 ## 获取地址

@@ -27,6 +27,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_identity_protocols
 - cjpm 安装: `cjpm install soulsoft_identity_protocols`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 403
+- 下载量: 433
 - 发布者: soulsoft
 - 许可证: MIT

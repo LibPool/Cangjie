@@ -26,6 +26,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/gjson
 - cjpm 安装: `cjpm install gjson`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 69
+- 下载量: 145
 - 发布者: YSTYLE-LXY
 - 许可证: MulanPSL-2.0

@@ -28,5 +28,5 @@ tycj 通用工具库 - 提供字符串、日期、数字、集合、JSON、配�
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/tybb2026::tycj_common
 - cjpm 安装: `cjpm install tybb2026::tycj_common`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 16
 - 发布者: tybb

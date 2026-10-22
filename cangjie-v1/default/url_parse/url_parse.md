@@ -19,5 +19,5 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/url_parse
 - cjpm 安装: `cjpm install url_parse`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 3
 - 发布者: Next-Lyle

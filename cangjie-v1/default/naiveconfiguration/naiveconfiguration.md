@@ -19,5 +19,5 @@ A lightweight configuration library for Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/naiveconfiguration
 - cjpm 安装: `cjpm install naiveconfiguration`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 10
+- 下载量: 11
 - 发布者: zhangyin_gitcode

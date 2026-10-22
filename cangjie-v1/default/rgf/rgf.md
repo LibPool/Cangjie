@@ -23,5 +23,5 @@ RGF Cangjie SDK Implementation
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/rgf
 - cjpm 安装: `cjpm install rgf`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 10
 - 发布者: 尧佥

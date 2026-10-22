@@ -19,5 +19,5 @@ test cjpm lib
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/test_cjpm_lib
 - cjpm 安装: `cjpm install test_cjpm_lib`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 5
 - 发布者: Cangjie-JYF

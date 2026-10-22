@@ -19,6 +19,6 @@ Semantic Versioning
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/semver
 - cjpm 安装: `cjpm install semver`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 28
+- 下载量: 63
 - 发布者: Yesokim
 - 许可证: Apache-2.0

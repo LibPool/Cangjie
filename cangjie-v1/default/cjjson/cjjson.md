@@ -19,5 +19,5 @@ nothing here
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjjson
 - cjpm 安装: `cjpm install cjjson`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 8
+- 下载量: 10
 - 发布者: Neila

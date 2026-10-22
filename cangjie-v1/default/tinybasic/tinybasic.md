@@ -22,5 +22,5 @@ Basic Tools
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/tinybasic
 - cjpm 安装: `cjpm install tinybasic`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 26
+- 下载量: 28
 - 发布者: tinychong

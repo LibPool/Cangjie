@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::defer
 - cjpm 安装: `cjpm install ystyle::defer`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 7
 - 发布者: YSTYLE-LXY
 - 许可证: MulanPSL2

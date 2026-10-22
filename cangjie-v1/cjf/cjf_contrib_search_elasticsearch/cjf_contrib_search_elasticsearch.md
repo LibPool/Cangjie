@@ -12,6 +12,7 @@ cjf contrib — Elasticsearch integration with OTel tracing, metrics, and struct
 
 ## 历史版本号
 
+- 0.0.4
 - 0.0.3
 - 0.0.1
 

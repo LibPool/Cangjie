@@ -12,6 +12,8 @@ ACP (Agent Client Protocol) 框架，包含 Agent 侧与 Client 侧
 
 ## 历史版本号
 
+- 0.2.7
+- 0.2.6
 - 0.2.5
 - 0.2.4
 - 0.2.3
@@ -26,6 +28,6 @@ ACP (Agent Client Protocol) 框架，包含 Agent 侧与 Client 侧
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/acp
 - cjpm 安装: `cjpm install acp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 40
+- 下载量: 50
 - 发布者: YSTYLE-LXY
 - 许可证: MulanPSL-2.0

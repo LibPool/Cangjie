@@ -19,5 +19,5 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/opencj::multipart
 - cjpm 安装: `cjpm install opencj::multipart`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 36
+- 下载量: 94
 - 发布者: changeden

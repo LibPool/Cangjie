@@ -12,6 +12,7 @@
 
 ## 历史版本号
 
+- 1.2.1
 - 1.2.0
 - 1.1.0
 - 1.0.0
@@ -21,6 +22,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjpminfo
 - cjpm 安装: `cjpm install cjpminfo`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 90
+- 下载量: 175
 - 发布者: YSTYLE-LXY
 - 许可证: MulanPSL-2.0

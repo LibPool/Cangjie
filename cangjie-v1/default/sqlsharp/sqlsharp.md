@@ -28,6 +28,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/sqlsharp
 - cjpm 安装: `cjpm install sqlsharp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 467
+- 下载量: 505
 - 发布者: soulsoft
 - 许可证: MIT

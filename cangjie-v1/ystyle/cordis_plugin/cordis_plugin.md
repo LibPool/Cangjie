@@ -12,6 +12,7 @@ Cordis 动态组合框架插件 SDK
 
 ## 历史版本号
 
+- 0.2.0
 - 0.1.0
 
 ## 获取地址
@@ -19,6 +20,6 @@ Cordis 动态组合框架插件 SDK
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::cordis_plugin
 - cjpm 安装: `cjpm install ystyle::cordis_plugin`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 11
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

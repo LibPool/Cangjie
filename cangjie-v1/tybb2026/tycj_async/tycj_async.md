@@ -28,5 +28,5 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/tybb2026::tycj_async
 - cjpm 安装: `cjpm install tybb2026::tycj_async`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 9
 - 发布者: tybb

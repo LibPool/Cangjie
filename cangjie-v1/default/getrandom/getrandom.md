@@ -19,5 +19,5 @@ A small cross-platform package for retrieving random data from system source
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/getrandom
 - cjpm 安装: `cjpm install getrandom`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 2
 - 发布者: yms_hi

@@ -21,5 +21,5 @@ Tiny::json — JSON serialization/deserialization library with built-in parser a
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/Tiny::json
 - cjpm 安装: `cjpm install Tiny::json`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 17
+- 下载量: 18
 - 发布者: tinychong

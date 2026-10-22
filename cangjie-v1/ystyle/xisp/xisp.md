@@ -4,7 +4,7 @@
 
 ## 简介
 
-星枢 - 仓颉嵌入式 Lisp 脚本语言
+星枢 - 仓颉嵌入式 Lisp 脚本语言（核心：解释器 / 内建 / 模块系统 / 桥接）
 
 ## 官网
 
@@ -12,6 +12,8 @@
 
 ## 历史版本号
 
+- 0.5.0
+- 0.4.1
 - 0.4.0
 - 0.3.0
 - 0.2.1
@@ -23,6 +25,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::xisp
 - cjpm 安装: `cjpm install ystyle::xisp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 27
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

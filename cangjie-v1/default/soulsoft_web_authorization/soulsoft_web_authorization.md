@@ -27,6 +27,6 @@ Web 授权库，支持基于策略、角色和声明的授权控制。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_authorization
 - cjpm 安装: `cjpm install soulsoft_web_authorization`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 407
+- 下载量: 442
 - 发布者: soulsoft
 - 许可证: MIT

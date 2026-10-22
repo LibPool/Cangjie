@@ -19,5 +19,5 @@ ULID (Universally Unique Lexicographically Sortable Identifier) for Cangjie: 48-
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ulid4cj
 - cjpm 安装: `cjpm install ulid4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 2
 - 发布者: fpwdh

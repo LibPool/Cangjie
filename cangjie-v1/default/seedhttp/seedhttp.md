@@ -19,5 +19,5 @@ More Faster HTTP Server
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/seedhttp
 - cjpm 安装: `cjpm install seedhttp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 26
+- 下载量: 29
 - 发布者: yishengTH

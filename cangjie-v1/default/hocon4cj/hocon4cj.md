@@ -24,6 +24,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/hocon4cj
 - cjpm 安装: `cjpm install hocon4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 8
+- 下载量: 9
 - 发布者: Deerio Chaelingo
 - 许可证: MIT

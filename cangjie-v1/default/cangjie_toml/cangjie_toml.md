@@ -19,5 +19,5 @@ nothing here
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cangjie_toml
 - cjpm 安装: `cjpm install cangjie_toml`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 67
+- 下载量: 69
 - 发布者: PermissionDog

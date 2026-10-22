@@ -19,6 +19,6 @@ CRC 校验和库，提供 CRC32 (IEEE) 和 CRC32C (Castagnoli) 实现
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::crc
 - cjpm 安装: `cjpm install ystyle::crc`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 39
+- 下载量: 104
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

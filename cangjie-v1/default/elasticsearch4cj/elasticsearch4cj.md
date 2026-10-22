@@ -12,6 +12,8 @@ Cangjie Elasticsearch 客户端库
 
 ## 历史版本号
 
+- 0.2.2
+- 0.2.1
 - 0.2.0
 - 0.1.2
 - 0.1.1
@@ -23,5 +25,5 @@ Cangjie Elasticsearch 客户端库
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/elasticsearch4cj
 - cjpm 安装: `cjpm install elasticsearch4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 19
 - 发布者: ZhaoJun

@@ -19,5 +19,5 @@ Cangjie bindings for the vendored Zstandard C library.
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/zstd4cj
 - cjpm 安装: `cjpm install zstd4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 5
 - 发布者: michael-ding

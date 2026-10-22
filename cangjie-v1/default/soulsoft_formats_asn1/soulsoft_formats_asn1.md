@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_formats_asn1
 - cjpm 安装: `cjpm install soulsoft_formats_asn1`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 362
+- 下载量: 391
 - 发布者: soulsoft
 - 许可证: MIT

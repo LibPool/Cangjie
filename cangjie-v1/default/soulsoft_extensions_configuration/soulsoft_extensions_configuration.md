@@ -27,6 +27,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_extensions_configuration
 - cjpm 安装: `cjpm install soulsoft_extensions_configuration`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 762
+- 下载量: 824
 - 发布者: soulsoft
 - 许可证: MIT

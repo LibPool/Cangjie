@@ -19,6 +19,6 @@ click4cj —— 仓颉版 Click，可组合的命令行界面创建工具包
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/click4cj
 - cjpm 安装: `cjpm install click4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 3
 - 发布者: 幻影
 - 许可证: BSD-3-Clause

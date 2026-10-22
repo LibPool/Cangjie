@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/time
 - cjpm 安装: `cjpm install time`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 5
+- 下载量: 6
 - 发布者: Deerio Chaelingo
 - 许可证: MIT

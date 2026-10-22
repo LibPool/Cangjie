@@ -19,6 +19,6 @@ A Gin-inspired HTTP web framework implemented in Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/gin4cj
 - cjpm 安装: `cjpm install gin4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 5
 - 发布者: 张润涛
 - 许可证: MIT

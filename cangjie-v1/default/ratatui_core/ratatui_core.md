@@ -19,5 +19,5 @@ Core geometry types for ratatui-cj
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ratatui_core
 - cjpm 安装: `cjpm install ratatui_core`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 4
 - 发布者: Jet

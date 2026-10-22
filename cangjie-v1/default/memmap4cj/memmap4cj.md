@@ -19,6 +19,6 @@ memmap4cj —— 跨平台内存映射 IO 库，移植自 Rust memmap2
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/memmap4cj
 - cjpm 安装: `cjpm install memmap4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 1
 - 发布者: 幻影
 - 许可证: MIT, Apache-2.0

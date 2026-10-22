@@ -19,5 +19,5 @@ A curl rewrite in Cangjie language
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/curl4cj
 - cjpm 安装: `cjpm install curl4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 4
 - 发布者: 渣渣辉Zzzh

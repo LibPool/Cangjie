@@ -12,6 +12,7 @@
 
 ## 历史版本号
 
+- 1.3.1
 - 1.3.0
 - 1.2.0
 - 1.1.0
@@ -22,6 +23,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::rpcx
 - cjpm 安装: `cjpm install ystyle::rpcx`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 15
+- 下载量: 17
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

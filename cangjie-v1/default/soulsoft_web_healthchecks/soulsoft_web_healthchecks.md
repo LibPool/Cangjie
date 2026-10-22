@@ -27,6 +27,6 @@ Web 健康检查库，支持在 Web 应用中暴露健康检查端点。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_healthchecks
 - cjpm 安装: `cjpm install soulsoft_web_healthchecks`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 70
+- 下载量: 91
 - 发布者: soulsoft
 - 许可证: MIT

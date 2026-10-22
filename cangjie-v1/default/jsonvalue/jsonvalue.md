@@ -12,6 +12,7 @@
 
 ## 历史版本号
 
+- 1.1.1
 - 1.1.0
 - 1.0.1
 
@@ -20,6 +21,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/jsonvalue
 - cjpm 安装: `cjpm install jsonvalue`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 46
+- 下载量: 94
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

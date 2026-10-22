@@ -19,5 +19,5 @@ Rustls TLS library ported to Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/rustls4cj
 - cjpm 安装: `cjpm install rustls4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 3
 - 发布者: chao

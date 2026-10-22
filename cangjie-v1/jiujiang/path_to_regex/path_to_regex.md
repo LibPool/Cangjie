@@ -19,5 +19,5 @@ A Cangjie path template library for matching, parameter extraction, regexp gener
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/jiujiang::path_to_regex
 - cjpm 安装: `cjpm install jiujiang::path_to_regex`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 1
 - 发布者: Next-Lyle

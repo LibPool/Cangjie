@@ -20,6 +20,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/graph
 - cjpm 安装: `cjpm install graph`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 48
 - 发布者: YSTYLE-LXY
 - 许可证: Apache-2.0

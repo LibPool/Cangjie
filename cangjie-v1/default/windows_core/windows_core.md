@@ -19,6 +19,6 @@ Core runtime types for Windows API bindings in Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/windows_core
 - cjpm 安装: `cjpm install windows_core`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 2
 - 发布者: Zxilly
 - 许可证: MIT

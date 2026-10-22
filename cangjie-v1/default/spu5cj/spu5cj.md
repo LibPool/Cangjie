@@ -22,5 +22,5 @@ nothing here
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/spu5cj
 - cjpm 安装: `cjpm install spu5cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 11
+- 下载量: 12
 - 发布者: zhangyin_gitcode

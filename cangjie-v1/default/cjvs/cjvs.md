@@ -12,6 +12,7 @@
 
 ## 历史版本号
 
+- 0.4.2
 - 0.4.1
 - 0.3.9
 - 0.3.7
@@ -22,6 +23,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjvs
 - cjpm 安装: `cjpm install cjvs`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 18
+- 下载量: 20
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

@@ -27,6 +27,6 @@ JSON 序列化库，支持通过宏生成序列化代码，并提供选项与自
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_serialization
 - cjpm 安装: `cjpm install soulsoft_serialization`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 843
+- 下载量: 915
 - 发布者: soulsoft
 - 许可证: MIT

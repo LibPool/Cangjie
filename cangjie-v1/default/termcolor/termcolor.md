@@ -19,6 +19,6 @@ Terminal color output
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/termcolor
 - cjpm 安装: `cjpm install termcolor`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 20
+- 下载量: 21
 - 发布者: Taoning Ge
 - 许可证: MIT

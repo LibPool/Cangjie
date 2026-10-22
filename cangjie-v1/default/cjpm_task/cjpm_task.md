@@ -12,6 +12,7 @@ Cangjie declarative task runner
 
 ## 历史版本号
 
+- 1.1.1
 - 1.1.0
 - 1.0.2
 - 1.0.1
@@ -22,6 +23,6 @@ Cangjie declarative task runner
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjpm_task
 - cjpm 安装: `cjpm install cjpm_task`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 12
+- 下载量: 14
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

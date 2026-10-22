@@ -25,5 +25,5 @@ Complementary containers for the Cangjie standard library: PriorityQueue, Trie, 
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/collections4cj
 - cjpm 安装: `cjpm install collections4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 6
+- 下载量: 7
 - 发布者: fpwdh

@@ -27,5 +27,5 @@ Ignite - A high-performance web framework for Cangjie, inspired by Fiber
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ignite
 - cjpm 安装: `cjpm install ignite`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 15
+- 下载量: 22
 - 发布者: Cinyu

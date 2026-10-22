@@ -27,6 +27,6 @@ CORS 中间件库，支持跨域策略配置、预检请求处理和端点级控
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_cors
 - cjpm 安装: `cjpm install soulsoft_web_cors`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 436
+- 下载量: 473
 - 发布者: soulsoft
 - 许可证: MIT

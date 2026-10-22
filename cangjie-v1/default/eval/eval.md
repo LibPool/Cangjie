@@ -12,6 +12,8 @@ Cangjie Eval Package
 
 ## 历史版本号
 
+- 0.8.0
+- 0.7.0
 - 0.6.0
 - 0.5.1
 - 0.5.0
@@ -21,5 +23,5 @@ Cangjie Eval Package
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/eval
 - cjpm 安装: `cjpm install eval`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 6
 - 发布者: Neila

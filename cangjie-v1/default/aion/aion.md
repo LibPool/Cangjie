@@ -4,7 +4,7 @@
 
 ## 简介
 
-aion-scheduler （AI）
+单机进程内任务调度核心库
 
 ## 官网
 
@@ -12,6 +12,10 @@ aion-scheduler （AI）
 
 ## 历史版本号
 
+- 1.0.7
+- 1.0.6
+- 1.0.5
+- 1.0.4
 - 1.0.3
 - 1.0.2
 - 1.0.1
@@ -22,5 +26,5 @@ aion-scheduler （AI）
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/aion
 - cjpm 安装: `cjpm install aion`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 4
 - 发布者: jan_huber

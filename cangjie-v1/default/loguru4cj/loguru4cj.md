@@ -22,5 +22,5 @@ A simple logging library for Cangjie, inspired by Python Loguru
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/loguru4cj
 - cjpm 安装: `cjpm install loguru4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 2
 - 发布者: gsh2846416096

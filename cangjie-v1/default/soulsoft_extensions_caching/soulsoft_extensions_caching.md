@@ -27,6 +27,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_extensions_caching
 - cjpm 安装: `cjpm install soulsoft_extensions_caching`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 101
+- 下载量: 115
 - 发布者: soulsoft
 - 许可证: MIT

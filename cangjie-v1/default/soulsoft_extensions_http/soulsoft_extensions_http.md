@@ -27,6 +27,6 @@ HTTP 客户端工厂扩展库，支持命名客户端注册、处理器管道配
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_extensions_http
 - cjpm 安装: `cjpm install soulsoft_extensions_http`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 401
+- 下载量: 431
 - 发布者: soulsoft
 - 许可证: MIT

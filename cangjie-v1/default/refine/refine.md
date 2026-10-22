@@ -12,6 +12,7 @@ A compile-time type-safe ORM for Cangjie
 
 ## 历史版本号
 
+- 0.7.2
 - 0.7.1
 
 ## 获取地址
@@ -19,6 +20,6 @@ A compile-time type-safe ORM for Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/refine
 - cjpm 安装: `cjpm install refine`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 7
+- 下载量: 10
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

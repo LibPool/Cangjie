@@ -28,6 +28,6 @@ sqlSharp 集成扩展库，支持 DbContext 与依赖注入系统集成。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_extensions_sqlsharp
 - cjpm 安装: `cjpm install soulsoft_extensions_sqlsharp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 440
+- 下载量: 475
 - 发布者: soulsoft
 - 许可证: MIT

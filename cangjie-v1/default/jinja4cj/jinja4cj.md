@@ -21,5 +21,5 @@ jinja4cj —— 仓颉版 Jinja2，现代且快速的模板引擎
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/jinja4cj
 - cjpm 安装: `cjpm install jinja4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 2
 - 发布者: Everlasting

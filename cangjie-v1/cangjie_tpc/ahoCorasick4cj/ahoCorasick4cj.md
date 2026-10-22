@@ -19,6 +19,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cangjie_tpc::ahoCorasick4cj
 - cjpm 安装: `cjpm install cangjie_tpc::ahoCorasick4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 3
+- 下载量: 4
 - 发布者: shawnzhao19
 - 许可证: Apache-2.0

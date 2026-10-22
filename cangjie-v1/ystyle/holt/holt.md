@@ -12,6 +12,7 @@
 
 ## 历史版本号
 
+- 1.1.0
 - 1.0.8
 - 1.0.7
 - 1.0.6
@@ -27,6 +28,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::holt
 - cjpm 安装: `cjpm install ystyle::holt`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 23
+- 下载量: 32
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

@@ -12,6 +12,7 @@ Modern declarative CLI library for Cangjie language with unified Command interfa
 
 ## 历史版本号
 
+- 0.1.0
 - 0.0.3
 - 0.0.2
 - 0.0.1
@@ -21,6 +22,6 @@ Modern declarative CLI library for Cangjie language with unified Command interfa
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/commandline
 - cjpm 安装: `cjpm install commandline`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 3
+- 下载量: 6
 - 发布者: Cangjie-Sundaiyue
-- 许可证: MIT
+- 许可证: Apache-2.0

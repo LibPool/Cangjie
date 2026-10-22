@@ -19,5 +19,5 @@ A Jackson-inspired JSON serialization library for Cangjie, powered by compile-ti
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/json4cj
 - cjpm 安装: `cjpm install json4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 5
+- 下载量: 8
 - 发布者: 洪鹏飞

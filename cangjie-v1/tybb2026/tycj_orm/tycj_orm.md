@@ -28,5 +28,5 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/tybb2026::tycj_orm
 - cjpm 安装: `cjpm install tybb2026::tycj_orm`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 11
+- 下载量: 13
 - 发布者: tybb

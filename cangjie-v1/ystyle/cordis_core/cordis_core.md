@@ -19,6 +19,6 @@ Cordis 动态组合框架核心：协议消息类型与配置加载
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::cordis_core
 - cjpm 安装: `cjpm install ystyle::cordis_core`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 8
+- 下载量: 11
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

@@ -19,6 +19,6 @@ stdx.log module
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/stdx_log
 - cjpm 安装: `cjpm install stdx_log`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 72
+- 下载量: 77
 - 发布者: yms_hi
 - 许可证: Apache-2.0

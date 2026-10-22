@@ -12,6 +12,7 @@ Extension modules provided by the Cangjie programming language
 
 ## 历史版本号
 
+- 1.2.0
 - 0.0.1
 - 1.1.0
 - 0.0.3
@@ -22,5 +23,5 @@ Extension modules provided by the Cangjie programming language
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/stdx
 - cjpm 安装: `cjpm install stdx`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 303
+- 下载量: 331
 - 发布者: 仓颉编程语言

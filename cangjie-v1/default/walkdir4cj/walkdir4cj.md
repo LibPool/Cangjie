@@ -19,5 +19,5 @@ A recursive directory traversal library for Cangjie.
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/walkdir4cj
 - cjpm 安装: `cjpm install walkdir4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 1
 - 发布者: 不羁的木木

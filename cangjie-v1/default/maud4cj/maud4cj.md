@@ -20,6 +20,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/maud4cj
 - cjpm 安装: `cjpm install maud4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 1
+- 下载量: 3
 - 发布者: JOin
 - 许可证: MIT, Apache-2.0

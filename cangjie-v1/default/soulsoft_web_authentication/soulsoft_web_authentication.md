@@ -27,6 +27,6 @@ Web 身份认证库，支持认证处理器、认证方案和认证流程扩展�
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_authentication
 - cjpm 安装: `cjpm install soulsoft_web_authentication`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 409
+- 下载量: 444
 - 发布者: soulsoft
 - 许可证: MIT

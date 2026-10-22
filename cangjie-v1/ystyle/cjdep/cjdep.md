@@ -12,6 +12,9 @@
 
 ## 历史版本号
 
+- 1.3.4
+- 1.3.3
+- 1.3.2
 - 1.3.1
 - 1.3.0
 - 1.2.0
@@ -23,6 +26,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::cjdep
 - cjpm 安装: `cjpm install ystyle::cjdep`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 31
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

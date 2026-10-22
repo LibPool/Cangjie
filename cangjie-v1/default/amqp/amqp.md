@@ -19,6 +19,6 @@ AMQP 0-9-1 client library for Cangjie, supporting RabbitMQ message queue operati
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/amqp
 - cjpm 安装: `cjpm install amqp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 10
 - 发布者: 陶武吉
 - 许可证: Apache-2.0

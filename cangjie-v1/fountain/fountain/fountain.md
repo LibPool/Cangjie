@@ -12,6 +12,8 @@ utility for server app development
 
 ## 历史版本号
 
+- 1.3.16
+- 1.3.7
 - 1.3.2
 - 1.2.2
 - 1.2.0
@@ -25,6 +27,6 @@ utility for server app development
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/fountain::fountain
 - cjpm 安装: `cjpm install fountain::fountain`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 9
+- 下载量: 12
 - 发布者: runningW
 - 许可证: Apache-2.0

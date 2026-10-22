@@ -27,6 +27,6 @@ Pure Cangjie library for reading, writing and modifying Excel xlsx files based o
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/xlsx4cj
 - cjpm 安装: `cjpm install xlsx4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 12
+- 下载量: 13
 - 发布者: 枫枫丶
 - 许可证: Apache-2.0

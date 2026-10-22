@@ -26,5 +26,5 @@ tycj 加密工具库 - 提供 MD5、SHA-256、HMAC、Base64、SM2、SM3、SM4、
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/tybb2026::tycj_crypto
 - cjpm 安装: `cjpm install tybb2026::tycj_crypto`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 10
+- 下载量: 12
 - 发布者: tybb

@@ -22,6 +22,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/win_gui
 - cjpm 安装: `cjpm install win_gui`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 15
+- 下载量: 19
 - 发布者: tianyyyyy
 - 许可证: MIT

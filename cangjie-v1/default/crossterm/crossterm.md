@@ -20,5 +20,5 @@ A crossplatform terminal library for manipulating terminals (Cangjie port of cro
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/crossterm
 - cjpm 安装: `cjpm install crossterm`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 3
+- 下载量: 5
 - 发布者: Jet

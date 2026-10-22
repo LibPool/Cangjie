@@ -26,6 +26,6 @@ JWT Bearer 身份认证库，支持基于 Bearer Token 的 Web 认证。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_web_authentication_jwtbearer
 - cjpm 安装: `cjpm install soulsoft_web_authentication_jwtbearer`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 400
+- 下载量: 430
 - 发布者: soulsoft
 - 许可证: MIT

@@ -22,5 +22,5 @@ SeaJson (释笺) — native JSON infrastructure for Cangjie (pure std, zero exte
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/seajson
 - cjpm 安装: `cjpm install seajson`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 39
+- 下载量: 104
 - 发布者: Cinyu

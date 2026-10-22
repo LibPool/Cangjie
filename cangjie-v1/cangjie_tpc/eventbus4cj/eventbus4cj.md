@@ -20,6 +20,6 @@ lite-eventbus
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cangjie_tpc::eventbus4cj
 - cjpm 安装: `cjpm install cangjie_tpc::eventbus4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 4
 - 发布者: fangwei
 - 许可证: MIT

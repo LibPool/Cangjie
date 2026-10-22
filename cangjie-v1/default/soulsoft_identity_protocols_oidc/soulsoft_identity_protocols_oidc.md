@@ -27,6 +27,6 @@ OpenID Connect 协议库，支持配置模型、元数据常量和发现文档�
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_identity_protocols_oidc
 - cjpm 安装: `cjpm install soulsoft_identity_protocols_oidc`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 400
+- 下载量: 430
 - 发布者: soulsoft
 - 许可证: MIT

@@ -12,6 +12,9 @@ protoc-gen-cj: Cangjie code generator for Protocol Buffers
 
 ## 历史版本号
 
+- 0.2.3
+- 0.2.2
+- 0.2.1
 - 0.2.0
 - 0.1.2
 - 0.1.1
@@ -25,5 +28,5 @@ protoc-gen-cj: Cangjie code generator for Protocol Buffers
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/protoc_gen_cj
 - cjpm 安装: `cjpm install protoc_gen_cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 7
+- 下载量: 11
 - 发布者: ZhaoJun

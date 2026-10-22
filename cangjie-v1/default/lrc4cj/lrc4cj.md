@@ -4,7 +4,7 @@
 
 ## 简介
 
-LRC/SRT/WebVTT 歌词与字幕解析与编辑库，支持 JSON/CSV 导出、Builder 模式、流式解析（仓颉语言）
+LRC/SRT/WebVTT/ASS 歌词与字幕解析与编辑库，支持逐字定位、播放器同步、双语配对、批量转换、JSON/CSV 导出、Builder 模式、流式解析（仓颉语言）
 
 ## 官网
 
@@ -12,6 +12,9 @@ LRC/SRT/WebVTT 歌词与字幕解析与编辑库，支持 JSON/CSV 导出、Buil
 
 ## 历史版本号
 
+- 0.6.0
+- 0.5.0
+- 0.4.0
 - 0.3.0
 - 0.2.0
 - 0.1.0
@@ -21,6 +24,6 @@ LRC/SRT/WebVTT 歌词与字幕解析与编辑库，支持 JSON/CSV 导出、Buil
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/lrc4cj
 - cjpm 安装: `cjpm install lrc4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 3
+- 下载量: 11
 - 发布者: yuan_1992
 - 许可证: MulanPSL-2.0

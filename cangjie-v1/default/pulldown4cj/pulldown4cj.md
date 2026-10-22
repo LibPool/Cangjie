@@ -19,5 +19,5 @@ pulldown4cj 是 Rust 库 [pulldown-cmark v0.13.4] 的 Cangjie 语言移植版，
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/pulldown4cj
 - cjpm 安装: `cjpm install pulldown4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 3
+- 下载量: 5
 - 发布者: YuYan

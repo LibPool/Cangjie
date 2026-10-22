@@ -19,5 +19,5 @@ nothing here
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/toml2cj
 - cjpm 安装: `cjpm install toml2cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 2
+- 下载量: 4
 - 发布者: zhangyin_gitcode

@@ -12,6 +12,10 @@ Cangjie server-driven UI framework for enterprise applications
 
 ## 历史版本号
 
+- 1.2.1
+- 1.2.0
+- 1.1.1
+- 1.1.0
 - 1.0.3
 - 1.0.2
 - 1.0.1
@@ -22,6 +26,6 @@ Cangjie server-driven UI framework for enterprise applications
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/cjxt
 - cjpm 安装: `cjpm install cjxt`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 17
+- 下载量: 116
 - 发布者: YSTYLE-LXY
 - 许可证: MIT

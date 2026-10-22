@@ -20,6 +20,6 @@ Go archive/tar 的仓颉移植 - tar 归档库
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/ystyle::tar
 - cjpm 安装: `cjpm install ystyle::tar`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 20
+- 下载量: 64
 - 发布者: YSTYLE-LXY
 - 许可证: BSD-3-Clause

@@ -20,6 +20,6 @@ Snappy compression library for Cangjie
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/snappy
 - cjpm 安装: `cjpm install snappy`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 51
+- 下载量: 119
 - 发布者: YSTYLE-LXY
 - 许可证: BSD-3-Clause

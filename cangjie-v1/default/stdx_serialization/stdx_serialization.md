@@ -19,6 +19,6 @@ stdx.serialization
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/stdx_serialization
 - cjpm 安装: `cjpm install stdx_serialization`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 92
+- 下载量: 97
 - 发布者: yms_hi
 - 许可证: Apache-2.0

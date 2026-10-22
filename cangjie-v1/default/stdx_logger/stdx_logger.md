@@ -21,6 +21,6 @@ stdx.logger
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/stdx_logger
 - cjpm 安装: `cjpm install stdx_logger`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 76
+- 下载量: 82
 - 发布者: yms_hi
 - 许可证: Apache-2.0

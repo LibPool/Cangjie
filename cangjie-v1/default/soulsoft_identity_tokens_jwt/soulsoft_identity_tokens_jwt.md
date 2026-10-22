@@ -27,6 +27,6 @@ JWT 令牌库，支持 JSON Web Token (JWT) 的创建、解析和验证。
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_identity_tokens_jwt
 - cjpm 安装: `cjpm install soulsoft_identity_tokens_jwt`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 405
+- 下载量: 436
 - 发布者: soulsoft
 - 许可证: MIT

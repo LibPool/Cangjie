@@ -12,6 +12,7 @@ CJF adapter for the pure Cangjie MongoDB driver mongo-driver
 
 ## 历史版本号
 
+- 0.0.4
 - 0.0.3
 
 ## 获取地址

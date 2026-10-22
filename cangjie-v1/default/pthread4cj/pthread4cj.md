@@ -21,5 +21,5 @@ Linux pthread 绑定（线程与互斥锁的 CFunc 封装）
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/pthread4cj
 - cjpm 安装: `cjpm install pthread4cj`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 17
+- 下载量: 18
 - 发布者: flowers_unamed

@@ -24,5 +24,5 @@ LinderHttp 是一个轻量级 HTTP 客户端库，提供请求构建、响应解
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/linderHttp
 - cjpm 安装: `cjpm install linderHttp`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 13
+- 下载量: 15
 - 发布者: linderSeline

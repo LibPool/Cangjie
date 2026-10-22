@@ -20,5 +20,5 @@ Flatbuffers reader
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/Tiny::flatbuffers
 - cjpm 安装: `cjpm install Tiny::flatbuffers`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 11
+- 下载量: 15
 - 发布者: tinychong

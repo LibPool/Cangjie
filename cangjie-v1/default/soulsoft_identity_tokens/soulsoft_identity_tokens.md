@@ -27,6 +27,6 @@
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/soulsoft_identity_tokens
 - cjpm 安装: `cjpm install soulsoft_identity_tokens`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 406
+- 下载量: 437
 - 发布者: soulsoft
 - 许可证: MIT

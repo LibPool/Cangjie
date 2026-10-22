@@ -20,5 +20,5 @@ CJUI Cangjie core runtime
 - 中心仓页面: https://pkg.cangjie-lang.cn/package/jiujiang::cjui_core
 - cjpm 安装: `cjpm install jiujiang::cjui_core`
 - 中央仓库: https://pkg.cangjie-lang.cn/
-- 下载量: 0
+- 下载量: 20
 - 发布者: curry21212

@@ -12,6 +12,7 @@ cjf contrib — Nacos service registry and discovery implementing ServiceRegistr
 
 ## 历史版本号
 
+- 0.0.4
 - 0.0.3
 
 ## 获取地址
