@@ -5,7 +5,7 @@
 - 大版本目录：`cangjie-v1`
 - 包路径：`<group>/<name>/<name>.md`
 - 收录来源：`pkg.cangjie-lang.cn` 中心仓 API
-- 当前共收录 754 个 Cangjie 包。
+- 当前共收录 770 个 Cangjie 包。
 
 ## 数据源
 
@@ -132,7 +132,7 @@
 - `cjf::cjf_validate` 0.1.1  —  CangjieFrame 参数校验运行时: @Validate 宏展开后调用的 cjfValidate* 规则函数
 - `cjf::cjf_web` 0.0.4  —  CangjieFrame HTTP server, routing, middleware, session, OpenAPI
 
-### default (548 个)
+### default (555 个)
 
 - `CardGame` 1.0.0  —  回合制骰子卡牌对战游戏——支持单人vs AI、双人热座、局域网联机、远程联机
 - `SQL4cj` 1.0.4  —  一个仓颉语言的简单SQL解析器，还在开发当中。
@@ -155,6 +155,7 @@
 - `audio4cj` 0.3.0  —  仓颉统一音频解析库：探测容器格式，解码为统一的 f32 交错 PCM，并提取统一的标签模型
 - `badgercj` 1.6.22  —  一个可嵌入、持久化且速度很快的基于LSM-Tree的键值 (KV) 数据库
 - `bandaid` 1.1.0  —  nothing here
+- `base85cj` 0.1.0  —  Base85 encodings for Cangjie: RFC 1924 (Git) base85, Adobe Ascii85 with z-compre
 - `bbolt4cj` 0.1.0  —  仓颉版 bbolt 嵌入式 KV 数据库
 - `bigcache4cj` 1.0.0  —  Fast concurrent evicting in-memory cache for Cangjie.
 - `bigdecimal4cj` 0.1.1  —  Arbitrary-precision decimal (BigDecimal) for the Cangjie language: exact arithme
@@ -166,6 +167,7 @@
 - `bitset4cj` 0.2.0  —  A growable bit set (bitset) for the Cangjie language: set/clear/flip/test, set o
 - `bitstream4cj` 0.1.2  —  Bit-level stream reader/writer for Cangjie: arbitrary-width bit fields, MSB/LSB-
 - `bitvec4cj` 0.2.1  —  Bit-addressed memory containers for Cangjie, modeled after ferrilab/bitvec
+- `blake24cj` 0.1.0  —  BLAKE2b and BLAKE2s for Cangjie (RFC 7693): keyed MAC, salt/personal, tree hashi
 - `blake34cj` 0.1.0  —  Portable pure-Cangjie implementation of the BLAKE3 hash function
 - `bloom4cj` 1.1.0  —  nothing here
 - `bot4cj` 0.3.0  —  基于仓颉和 Linux I2C 接口的机器人硬件控制器（用 DSL 描述机器人结构与动作）
@@ -279,6 +281,7 @@
 - `demo` 1.1.8  —  nothing here
 - `deque4cj` 1.1.0  —  nothing here
 - `determine_cjpkg_version` 1.1.0  —  nothing here
+- `digest4cj` 0.1.0  —  Cryptographic hash and HMAC for Cangjie: MD5, SHA-1, SHA-256 and SHA-512 with st
 - `dont_install_me` 1.0.1  —  nothing here
 - `dotenv` 1.0.1  —  从 `.env` 文件加载环境变量
 - `dotenv4cj` 0.1.1  —  Parse .env / environment-style KEY=VALUE text into an ordered, typed key-value s
@@ -393,7 +396,7 @@
 - `luaRunner` 0.3.5  —  Lite and High performance LuaRunner
 - `luajit4cj` 1.0.1  —  仓颉语言的LuaJIT解释器绑定（Lua 5.1 API，ffi 可用）
 - `luarunnerjit` 0.4.0  —  LuaJIT 2.1 runner for Cangjie (typed interop)
-- `lunar4cj` 1.4.0  —  面向仓颉生态的 GB/T 33661-2017 级中国农历计算库：双向互转、十四大传统节日（清明/冬至节气锚定、除夕月末动态）、二十四节气精确时刻、七十二候、干
+- `lunar4cj` 1.6.0  —  面向仓颉生态的 GB/T 33661-2017 级中国农历计算库：双向互转、十四大传统节日（清明/冬至节气锚定、除夕月末动态）、二十四节气精确时刻、七十二候、干
 - `mapsdk` 0.2.0  —  mapsdk — geodesy, slippy tiles, geohash, GeoJSON; pure Cangjie
 - `mariadb` 2.1.0  —  MariaDB driver
 - `markit` 0.1.0  —  Streaming incremental Markdown parser core for Cangjie
@@ -475,6 +478,7 @@
 - `priorityblockingqueue4cj` 0.1.0  —  面向仓颉的线程安全、逻辑无界优先级阻塞队列
 - `priorityqueue4cj` 1.0.0  —  A high-performance Index Priority Queue and Double Priority Queue for Cangjie
 - `priorityqueue4cjplus` 0.1.0  —  Cangjie port of Rust priority-queue: a priority queue with efficient change_prio
+- `prng4cj` 0.1.0  —  Deterministic pseudo-random number generators for Cangjie: SplitMix64, MT19937/M
 - `probabilistic4cj` 0.2.1  —  Probabilistic data structures for the Cangjie language: BloomFilter, CountMinSke
 - `prometheus4cj` 0.2.2  —  Cangjie Prometheus 客户端库
 - `prost4cj` 0.1.0  —  Protocol Buffers encoding and decoding library for Cangjie
@@ -484,6 +488,7 @@
 - `pulldown4cj` 0.1.0  —  pulldown4cj 是 Rust 库 [pulldown-cmark v0.13.4] 的 Cangjie 语言移植版，一个高性能、低内存的 CommonM
 - `pulldown4cj_escape` 0.1.1  —  HTML escape library for pulldown4cj, ported from pulldown-cmark-escape v0.13.4
 - `pulsar` 0.2.0  —  Pulsar — a minimal reactive kernel for Cangjie: flat-subscriber Signal<T>, lazy 
+- `punycode4cj` 0.1.0  —  Punycode (RFC 3492) for Cangjie: codepoint core, string helpers, IDN A-label/U-l
 - `quadtree4cj` 0.1.1  —  Dynamic point quadtree for Cangjie: bucket-based region decomposition with inser
 - `quill` 1.0.0  —  quill — a pure-Cangjie retained-mode terminal UI framework: 12 widgets, CJK wide
 - `r2d24cj` 0.1.3  —  A generic connection pool for Cangjie, adapted from Rust r2d2
@@ -533,10 +538,12 @@
 - `semver4cj_njpji` 1.0.1  —  Semantic Versioning (semver 2.0.0) implementation for Cangjie: parse, compare, m
 - `semver4cjplus` 0.1.0  —  Rust semver 库的仓颉移植：Semantic Versioning 版本解析与匹配（Version/VersionReq/Prerelease/Bui
 - `sha2` 0.1.0  —  Pure Cangjie port of the RustCrypto `sha2` crate (v0.11.0)
+- `sha34cj` 0.1.0  —  SHA-3 family for Cangjie (FIPS 202 + SP 800-185): SHA3-224/256/384/512, raw Kecc
 - `shell_words` 1.1.1  —  Native shell-words library for Cangjie, migrated from rust shell-words
 - `shellexpand4cj` 1.2.0  —  Shell-like string expansion library for Cangjie, ported from Rust shellexpand.
 - `simplejson` 1.1.1  —  nothing here
 - `simplekv` 1.2.0  —  nothing here
+- `siphash4cj` 0.1.0  —  SipHash and HalfSipHash for Cangjie: SipHash-2-4/1-3, 64/128-bit output, keyed P
 - `sjson` 1.0.0  —  高性能 JSON 值设置工具 - 通过点号路径设置/删除 JSON 值
 - `slowxml` 1.1.0  —  使用仓颉编写的轻量化 XML 解析库。
 - `smol4cj` 1.0.0  —  A Cangjie adaptation of smol, a small async runtime.
@@ -683,53 +690,59 @@
 - `zmq` 0.2.1  —  ZeroMQ bindings for Cangjie
 - `zstd4cj` 1.5.7  —  Cangjie bindings for the vendored Zstandard C library.
 
-### fountain (45 个)
+### fountain (51 个)
 
-- `fountain::f_app` 1.3.16  —  依赖fountain开发的应用进程启动模块
-- `fountain::f_aspect` 1.3.16  —  AOP
-- `fountain::f_base` 1.3.16  —  一些Iterator扩展，enum OS, 不需要使用unsafe就能获得字符串原始字节数组的字符串扩展, 不需要使用unsafe就能得到ArrayList原始
-- `fountain::f_bean` 1.3.16  —  IOC
-- `fountain::f_bloom` 1.3.16  —  布隆过滤器
-- `fountain::f_cache` 1.3.16  —  堆缓存
-- `fountain::f_cmd` 1.3.16  —  命令行工具
-- `fountain::f_codec` 1.3.16  —  编解码器
-- `fountain::f_collection` 1.3.16  —  标准库尚不支持的集合以及一些标准库集合扩展
-- `fountain::f_concurrent` 1.3.16  —  负载均衡、限流算法、标准库尚不支持的并发集合和标准库并发集合扩展
-- `fountain::f_config` 1.3.16  —  配置模块
-- `fountain::f_crypto` 1.3.16  —  加密模块
-- `fountain::f_data` 1.3.16  —  数据复制、数据验证
-- `fountain::f_dbpool` 1.3.16  —  数据库连接池，基于f_pool实现Datasource连接池
-- `fountain::f_egraph` 1.3.16  —  一个事件驱动的业务流程执行器
-- `fountain::f_exception` 1.3.16  —  异常模块
-- `fountain::f_health` 1.3.16  —  收集进程运行数据作为健康检查信息、注册健康检查实现，按照配置向注册的实现发送健康检查数据
-- `fountain::f_http` 1.3.16  —  HTTP
-- `fountain::f_httpclient` 1.3.16  —  HTTP客户端
-- `fountain::f_io` 1.3.16  —  IO模块
-- `fountain::f_jwt` 1.3.16  —  JWT
+- `fountain::f_app` 1.3.17  —  依赖fountain开发的应用进程启动模块
+- `fountain::f_aspect` 1.3.17  —  AOP
+- `fountain::f_base` 1.3.17  —  一些Iterator扩展，enum OS, 不需要使用unsafe就能获得字符串原始字节数组的字符串扩展, 不需要使用unsafe就能得到ArrayList原始
+- `fountain::f_bean` 1.3.17  —  IOC
+- `fountain::f_bloom` 1.3.17  —  布隆过滤器
+- `fountain::f_cache` 1.3.17  —  堆缓存
+- `fountain::f_cmd` 1.3.17  —  命令行工具
+- `fountain::f_codec` 1.3.17  —  编解码器
+- `fountain::f_collection` 1.3.17  —  标准库尚不支持的集合以及一些标准库集合扩展
+- `fountain::f_concurrent` 1.3.17  —  负载均衡、限流算法、标准库尚不支持的并发集合和标准库并发集合扩展
+- `fountain::f_config` 1.3.17  —  配置模块
+- `fountain::f_crypto` 1.3.17  —  加密模块
+- `fountain::f_data` 1.3.17  —  数据复制、数据验证
+- `fountain::f_dbd` 1.3.17  —  数据库中间件fdbm的驱动，完整实现std.database.sql，并提供fdbm的共用代码
+- `fountain::f_dbm` 1.3.17  —  fdbm 的可扩展接口：分库算法与 ID 生成器
+- `fountain::f_dbpool` 1.3.17  —  数据库连接池，基于f_pool实现Datasource连接池
+- `fountain::f_egraph` 1.3.17  —  一个事件驱动的业务流程执行器
+- `fountain::f_exception` 1.3.17  —  异常模块
+- `fountain::f_health` 1.3.17  —  收集进程运行数据作为健康检查信息、注册健康检查实现，按照配置向注册的实现发送健康检查数据
+- `fountain::f_http` 1.3.17  —  HTTP
+- `fountain::f_httpclient` 1.3.17  —  HTTP客户端
+- `fountain::f_io` 1.3.17  —  IO模块
+- `fountain::f_jit` 1.3.17  —  JIT编译器（字节码·解释器·JIT后端·桥）
+- `fountain::f_jwt` 1.3.17  —  JWT
 - `fountain::f_llm` 1.1.4  —  大模型驭缰工程，包含记忆保存与经验总结、函数、大模型访问、智能体定义，以及技能、智能体描述、经验查询
-- `fountain::f_log` 1.3.16  —  日志
-- `fountain::f_macros` 1.3.16  —  宏工具API
-- `fountain::f_mockdb` 1.3.16  —  mock database
-- `fountain::f_mvc` 1.3.16  —  MVC
-- `fountain::f_net` 1.3.16  —  事件驱动的网络通讯模块
-- `fountain::f_orm` 1.3.16  —  orm
-- `fountain::f_pool` 1.3.16  —  一个池的实现，提供了对象池、数组池、ArrayList池
-- `fountain::f_process` 1.3.16  —  进程扩展模块
-- `fountain::f_protocol` 1.3.16  —  一个网络通讯协议实现
-- `fountain::f_random` 1.3.16  —  随机数扩展, ThreadLocalRandom, 蓄水池算法, 随机字符串
-- `fountain::f_regex` 1.3.16  —  正则表达式扩展、正则缓存、正则DSL
-- `fountain::f_rpc` 1.3.16  —  远程过程调用
-- `fountain::f_rx` 1.3.16  —  反应式编程API
-- `fountain::f_security` 1.3.16  —  配合MVC使用的安全模块
-- `fountain::f_store` 1.3.16  —  存储模块，包含依赖mmap的WAL和LSM-Tree
-- `fountain::f_ticktock` 1.3.16  —  CRON定时器模块
-- `fountain::f_time` 1.3.16  —  标准库的时间API扩展
-- `fountain::f_uring` 1.3.16  —  liburing ffi
-- `fountain::f_util` 1.3.16  —  crc16/密钥交换协议/命名风格转换/常用设计模式/geohash/snowflake/UUID/murmur_hash/路径匹配/文本模板/树结构转换
-- `fountain::f_version` 1.3.16  —  应用与fountain的版本信息和应用BANNER
-- `fountain::fboot` 1.3.16  —  依赖fountain的应用项目启动程序
+- `fountain::f_log` 1.3.17  —  日志
+- `fountain::f_macros` 1.3.17  —  宏工具API
+- `fountain::f_mockdb` 1.3.17  —  mock database
+- `fountain::f_mq` 1.3.17  —  消息队列客户端与客户端/服务端共用 API
+- `fountain::f_mvc` 1.3.17  —  MVC
+- `fountain::f_net` 1.3.17  —  事件驱动的网络通讯模块
+- `fountain::f_orm` 1.3.17  —  orm
+- `fountain::f_pool` 1.3.17  —  一个池的实现，提供了对象池、数组池、ArrayList池
+- `fountain::f_process` 1.3.17  —  进程扩展模块
+- `fountain::f_protocol` 1.3.17  —  一个网络通讯协议实现
+- `fountain::f_random` 1.3.17  —  随机数扩展, ThreadLocalRandom, 蓄水池算法, 随机字符串
+- `fountain::f_regex` 1.3.17  —  正则表达式扩展、正则缓存、正则DSL
+- `fountain::f_rpc` 1.3.17  —  远程过程调用
+- `fountain::f_rx` 1.3.17  —  反应式编程API
+- `fountain::f_security` 1.3.17  —  配合MVC使用的安全模块
+- `fountain::f_store` 1.3.17  —  存储模块，包含依赖mmap的WAL和LSM-Tree
+- `fountain::f_ticktock` 1.3.17  —  CRON定时器模块
+- `fountain::f_time` 1.3.17  —  标准库的时间API扩展
+- `fountain::f_uring` 1.3.17  —  liburing ffi
+- `fountain::f_util` 1.3.17  —  crc16/FNV 哈希(FNV-1·FNV-1a × 32/64/128/256)/密钥交换协议/命名风格转换/常用设计模式/geohash/snowflak
+- `fountain::f_version` 1.3.17  —  应用与fountain的版本信息和应用BANNER
+- `fountain::fboot` 1.3.17  —  依赖fountain的应用项目启动程序
+- `fountain::fdbm` 1.3.17  —  数据库中间件，支持分库、读写分离与负载均衡
 - `fountain::fleet` 1.3.2  —  数据同步工具，可用于做配置中心
-- `fountain::fountain` 1.3.16  —  utility for server app development
+- `fountain::fmq` 1.3.17  —  消息队列服务端（fmq server / fmq manager）
+- `fountain::fountain` 1.3.17  —  utility for server app development
 
 ### jiujiang (2 个)
 
@@ -783,7 +796,7 @@
 - `tybb2026::tycj_template` 1.1.1  —  tycj 模板引擎 - 支持 HTML 模板渲染，类似 Jinja2/Handlebars 语法
 - `tybb2026::tycj_web` 3.1.0  —  仓颉语言 Web MVC 框架 - 提供完整的 Web 开发能力
 
-### ystyle (32 个)
+### ystyle (35 个)
 
 - `ystyle::cjdep` 1.3.4  —  仓颉依赖分析与发布顺序工具：解析 cjpm.toml 工作空间/path/中心仓依赖，生成依赖发布顺序并列出可升级包
 - `ystyle::cjpm_ws` 0.1.5  —  cjpm workspace 增强工具：统一版本（lockstep）、共享依赖对齐、按拓扑序发布
@@ -803,6 +816,9 @@
 - `ystyle::jsonrpc_tcp` 0.7.9  —  JSON-RPC TCP 传输层
 - `ystyle::jsonrpc_unix` 0.7.9  —  JSON-RPC Unix Socket 传输层
 - `ystyle::jsonrpc_websocket` 0.7.9  —  JSON-RPC WebSocket 传输层
+- `ystyle::jsonschema` 0.2.0  —  JSON Schema draft 2020-12 校验器
+- `ystyle::jsonschema_dom` 0.2.0  —  严格 JSON DOM（保留数字原文）与 RFC 6901 JSON Pointer
+- `ystyle::jsonschema_regex` 0.2.0  —  ECMA-262 正则语义适配层（转写为 std.regex / PCRE2）
 - `ystyle::lsp_core` 0.2.2  —  LSP 服务器与客户端核心框架
 - `ystyle::lsp_stdio` 0.2.2  —  LSP Stdio 传输层
 - `ystyle::lsp_types` 0.2.2  —  LSP 3.17 协议类型库

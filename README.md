@@ -5,7 +5,7 @@
 - 仓库地址：https://github.com/LibPool/Cangjie
 - 大版本目录：`cangjie-v1`（仓颉语言目前为 1.x 大版本）
 - 收录来源：仓颉中心仓 `pkg.cangjie-lang.cn` API
-- 当前共收录 693 个 Cangjie 包
+- 当前共收录 770 个 Cangjie 包
 
 ## 收录的中央仓库
 
